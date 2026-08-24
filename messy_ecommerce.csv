@@ -1,0 +1,628 @@
+Order_ID,Customer_ID,Age,Gender,City,Product_Category,Product,Quantity,Unit_Price,Discount,Payment_Method,Order_Date,Rating,Delivery_Days,Returned,Total_Amount
+ORD106680,CUST7362,28,Male,Hyderabad,Fashion,Shoes,2,2507.76,15,Debit Card,27-08-2025,4.1,7,No,4263.19
+ORD103291,CUST3155,30,Female,Delhi,Fashion,Jeans,2,1988.04,25,Debit Card,18-06-2025,4.2,4,No,2982.06
+ORD106559,CUST1349,32,Male,Pune,Sports,Yoga Mat,2,776.35,15,UPI,13-01-2025,3.6,2,No,1319.8
+ORD107927,CUST6779,39,Female,Chennai,Electronics,Smartwatch,1,7739.89,10,UPI,01-06-2026,3.2,6,Yes,6965.9
+ORD105665,CUST1389,27,Male,Chennai,Electronics,Laptop,1,61138.76,5,Debit Card,17-06-2026,3.1,5,No,58081.82
+ORD106062,CUST5590,33,Female,Kolkata,Fashion,Jeans,1,1890.11,10,COD,05-05-2026,4,3,No,1701.1
+ORD106614,CUST6687,46,Male,Hyderabad,Electronics,Smartwatch,1,5999.83,15,UPI,08-06-2025,4.4,2,No,5099.86
+ORD103703,CUST8172,32,Male,Ahmedabad,Home & Kitchen,Air Fryer,1,6760.65,20,Net Banking,01-03-2026,3.2,4,No,5408.52
+ORD104915,CUST4603,30,Male,Vijayawada,Fashion,Shoes,2,2830.42,5,Credit Card,16-03-2025,2.4,5,No,5377.8
+ORD111336,CUST3292,31,Male,Bengaluru,Electronics,Tablet,2,21716.46,10,Debit Card,07-06-2026,3.9,8,No,39089.63
+ORD114026,CUST1090,,Female,Guntur,Fashion,Jacket,1,2828.92,10,Debit Card,04-01-2026,3.7,5,No,2546.03
+ORD111135,CUST3455,40,Female,Visakhapatnam,Beauty,Face Wash,3,561.44,15,COD,07-11-2025,2.5,,No,1431.66
+ORD108157,CUST1599,39,Male,Guntur,Sports,Dumbbells,2,2752.01,10,COD,29-05-2026,3.6,5,No,4953.61
+ORD114073,CUST8354,19,Female,Delhi,Home & Kitchen,Air Fryer,1,7065.68,5,UPI,28-09-2026,4.6,3,Yes,6712.4
+ORD102407,CUST3853,26,Female,Pune,Home & Kitchen,Bedsheet,3,1394.37,,Net Banking,05-10-2026,4.8,4,No,3555.64
+ORD106077,CUST4290,44,Female,Chennai,Home & Kitchen,Cookware Set,2,2855.16,10,,06-05-2026,3.9,3,No,5139.28
+ORD108328,CUST1217,27,Male,Hyderabad,Home & Kitchen,Mixer Grinder,1,3882.85,10,Debit Card,15-08-2026,4.5,5,No,3494.57
+ORD101262,CUST6133,33,Female,Warangal,Fashion,Jacket,1,2846.17,15,Net Banking,01-09-2026,4,7,No,2419.24
+ORD114420,CUST7219,37,Male,Kolkata,Electronics,Smartwatch,2,7581.76,10,Net Banking,09-11-2025,4.1,4,No,13647.18
+ORD110605,CUST5646,23,Female,Bengaluru,Fashion,Jacket,1,2696.02,0,Debit Card,15-11-2026,3.3,1,No,2696.02
+ORD100477,CUST4551,39,Female,Visakhapatnam,Fashion,Jeans,2,1647.5,10,Debit Card,10-11-2025,4.8,2,No,2965.51
+ORD109192,CUST3857,44,Male,Delhi,Fashion,Handbag,3,2482.46,15,UPI,27-11-2025,2.9,4,Yes,6330.27
+ORD100488,CUST5897,31,Male,Mumbai,Electronics,Tablet,2,19950.5,5,UPI,12-12-2025,4.4,3,Yes,37905.95
+ORD100380,CUST5574,25,Female,Delhi,Beauty,Face Wash,1,489.3,0,Credit Card,09-11-2026,4.6,6,No,489.3
+ORD110960,CUST5355,45,Female,Visakhapatnam,Books,Exam Guide,1,789.37,20,Net Banking,07-05-2025,4,2,No,631.49
+ORD103861,CUST8401,48,Female,Chennai,Fashion,Jacket,3,2874.16,20,Debit Card,29-08-2026,3.4,6,Yes,6897.98
+ORD101324,CUST1369,40,Female,Warangal,Beauty,Moisturizer,1,604.47,15,Debit Card,04-09-2025,3.2,5,No,513.8
+ORD102907,CUST4710,30,Male,Bengaluru,Books,Biography,2,709.99,15,Net Banking,03-09-2025,4.9,7,No,1206.98
+ORD105203,CUST1155,36,Male,Kolkata,Electronics,Smartwatch,2,7247,20,Credit Card,07-04-2025,4.2,3,No,11595.2
+ORD101492,CUST5472,47,Female,Mumbai,Sports,Cricket Bat,1,3141.01,15,COD,04-01-2026,3.5,8,No,2669.86
+ORD113500,CUST3055,28,Male,Mumbai,Beauty,Moisturizer,1,694.95,10,COD,12-02-2025,3.6,3,Yes,625.46
+ORD107337,CUST6755,28,Female,Ahmedabad,Home & Kitchen,Cookware Set,1,2920.18,0,Debit Card,30-09-2025,,1,No,2920.18
+ORD101656,CUST2372,22,Male,Visakhapatnam,Fashion,Handbag,2,1955.55,5,Net Banking,28-10-2025,2.9,4,No,3715.55
+ORD100543,CUST6787,28,Male,Chennai,Sports,Yoga Mat,1,831.7,20,UPI,28-07-2026,4.2,3,No,665.36
+ORD100150,CUST8539,26,Female,Delhi,Electronics,Headphones,2,2693.16,5,Net Banking,07-10-2026,4.4,6,No,5117
+ORD102406,CUST6956,31,Female,Bengaluru,Electronics,Laptop,1,65832.03,0,COD,13-09-2026,4.9,6,No,65832.03
+ORD106707,CUST8989,21,Male,Hyderabad,Electronics,Smartwatch,1,7915.15,0,Wallet,20-03-2026,3.8,2,No,7915.15
+ORD111343,CUST5658,41,Female,Delhi,Fashion,Jeans,3,1566.26,25,Credit Card,18-07-2026,4.9,1,No,3524.09
+ORD107857,CUST2650,28,Other,Pune,Electronics,Laptop,3,55954.27,5,Wallet,21-10-2025,,1,No,159469.68
+ORD112175,CUST4612,36,Male,Bengaluru,Books,Biography,3,564,10,Debit Card,23-12-2025,5,3,No,1522.81
+ORD102232,CUST1043,36,Female,Visakhapatnam,Beauty,Moisturizer,1,768.28,10,Wallet,25-09-2025,4.5,4,No,691.46
+ORD111218,CUST7320,28,Female,Kolkata,Fashion,T-Shirt,2,1006.46,0,Net Banking,04-06-2026,4,6,No,2012.91
+ORD107473,CUST2683,22,Male,Vijayawada,Fashion,Shoes,1,2264.8,5,Wallet,22-09-2025,2.8,2,No,2151.56
+ORD110187,CUST1079,34,Male,Ahmedabad,Home & Kitchen,Mixer Grinder,1,3119.61,15,COD,20-08-2025,4.3,1,No,2651.66
+ORD104430,CUST8230,18,Female,Pune,Electronics,Laptop,1,68538.16,10,UPI,27-10-2026,3.6,4,No,61684.35
+ORD110543,CUST6348,34,Male,Pune,Electronics,Headphones,1,2604.73,5,COD,08-04-2025,5,3,Yes,2474.49
+ORD107071,CUST6150,18,Male,Warangal,Beauty,Hair Dryer,2,2181.08,10,UPI,06-12-2026,2.6,6,No,3925.95
+ORD105548,CUST6543,22,Male,Mumbai,Home & Kitchen,Cookware Set,3,2412.32,0,UPI,03-06-2025,3.3,8,No,7236.96
+ORD110361,CUST8292,18,Male,Bengaluru,Sports,Football,1,1329.99,20,UPI,16-10-2025,3.6,2,No,1063.99
+ORD113518,CUST6857,,Female,Bengaluru,Electronics,Headphones,1,3063.17,20,UPI,30-10-2026,3.5,5,Yes,2450.53
+ORD103976,CUST3601,67,Male,Ahmedabad,Electronics,Headphones,1,3002.35,20,UPI,03-09-2026,3.8,7,No,2401.88
+ORD111276,CUST7954,32,Male,Vijayawada,Fashion,T-Shirt,1,832.41,5,UPI,03-10-2025,4.7,6,Yes,790.79
+ORD100567,CUST4729,33,Male,Chennai,Beauty,Perfume,1,1797.69,0,UPI,26-08-2026,1.9,6,No,1797.69
+ORD109418,CUST2243,31,Female,Bengaluru,Beauty,Perfume,1,2051.41,5,Debit Card,10-02-2026,5,2,No,1948.84
+ORD107349,CUST6429,26,Female,Chennai,Fashion,Jeans,3,1543.07,10,Wallet,11-08-2025,3.4,4,No,4166.3
+ORD114445,CUST3336,19,Male,Hyderabad,Home & Kitchen,Mixer Grinder,3,3553.88,10,Debit Card,01-03-2026,3.9,2,Yes,9595.48
+ORD111103,CUST2589,40,Female,Pune,Beauty,Face Wash,1,504.95,15,Debit Card,18-07-2026,2.8,4,No,429.2
+ORD103112,CUST6204,35,Male,Delhi,Fashion,T-Shirt,3,890.84,15,Credit Card,02-02-2026,3.3,4,No,2271.63
+ORD108383,CUST7971,25,Male,Warangal,Electronics,Tablet,1,19498.77,10,Credit Card,13-07-2026,,8,No,17548.9
+ORD111348,CUST2633,50,Male,Warangal,Electronics,Smartphone,2,26179.31,30,Credit Card,05-01-2025,2.9,2,No,36651.03
+ORD105187,CUST1420,26,Female,,Electronics,Headphones,5,3264.1,0,Net Banking,07-05-2025,3.3,5,No,16320.51
+ORD101088,CUST2308,39,Female,Mumbai,Beauty,Moisturizer,3,720.42,10,,30-10-2025,4.7,4,No,1945.14
+ORD103194,CUST2755,42,Male,Pune,Beauty,Perfume,3,2002.29,15,Wallet,08-07-2025,4.6,6,No,5105.85
+ORD112332,CUST4952,34,Female,Kolkata,Home & Kitchen,Bedsheet,2,1372.2,20,Debit Card,05-04-2026,4,3,No,2195.52
+ORD109397,CUST6625,32,Female,Pune,Home & Kitchen,Bedsheet,2,1462.35,5,UPI,28-04-2026,3.7,2,No,2778.46
+ORD105071,CUST1672,22,Male,Visakhapatnam,Fashion,T-Shirt,1,988.86,5,Debit Card,03-05-2026,2.7,5,No,939.42
+ORD109026,CUST6672,31,Female,Pune,Home & Kitchen,Bedsheet,1,1525.82,15,UPI,05-06-2026,,5,No,1296.95
+ORD110507,CUST8001,49,Female,Kolkata,Home & Kitchen,Cookware Set,1,3114.63,20,Net Banking,08-04-2026,3.6,1,No,2491.7
+ORD104609,CUST3954,18,Other,Vijayawada,Electronics,Smartphone,3,27616.08,15,Wallet,30-05-2025,4.5,2,No,70421
+ORD107019,CUST1898,31,Male,Pune,Electronics,Smartwatch,1,6230.06,5,Credit Card,01-09-2025,4.6,5,No,5918.56
+ORD103785,CUST7677,43,Male,Guntur,Home & Kitchen,Cookware Set,4,2454.31,15,COD,30-01-2025,3.4,6,No,8344.64
+ORD114830,CUST6724,36,Male,Mumbai,Sports,Football,3,1112.77,0,COD,25-04-2026,3.9,2,No,3338.32
+ORD108471,CUST4732,21,Male,Guntur,Fashion,T-Shirt,1,972.2,20,UPI,20-11-2025,4.2,3,No,777.76
+ORD111323,CUST1838,43,Male,Guntur,Home & Kitchen,Air Fryer,3,7266.47,20,UPI,01-07-2025,4.4,2,No,17439.54
+ORD105050,CUST1031,30,Female,Hyderabad,Books,Biography,4,670.1,0,Wallet,23-02-2025,4.2,3,No,2680.39
+ORD103479,CUST3967,25,Female,Vijayawada,Books,Biography,4,740.74,15,COD,29-05-2025,4,2,No,2518.53
+ORD103326,CUST2047,40,Male,Mumbai,Sports,Football,3,1068.63,15,Debit Card,11-11-2026,4.5,4,No,2725.01
+ORD102272,CUST8786,28,Male,Pune,Home & Kitchen,Air Fryer,1,5804.95,0,Net Banking,07-03-2025,4.1,2,No,5804.95
+ORD108511,CUST4920,35,Female,Pune,Fashion,Handbag,1,2499.3,5,Debit Card,17-12-2025,4.3,6,No,2374.33
+ORD108880,CUST2049,20,Female,Pune,Home & Kitchen,Cookware Set,1,2932.78,15,Net Banking,30-08-2025,4,,No,2492.86
+ORD111901,CUST1326,34,Female,Chennai,Electronics,Tablet,1,19383.36,15,UPI,23-01-2026,3,7,No,16475.86
+ORD111443,CUST7218,19,Male,Visakhapatnam,Fashion,Handbag,1,2356.77,30,Credit Card,31-01-2026,4.5,3,No,1649.74
+ORD109267,CUST7896,30,Male,Visakhapatnam,Fashion,Jeans,2,1851.92,10,Wallet,22-07-2026,4,6,No,3333.46
+ORD105956,CUST4452,38,Female,Hyderabad,Home & Kitchen,Lamp,2,1114.02,5,UPI,18-10-2025,4.1,3,No,2116.64
+ORD110292,CUST3114,32,Male,Warangal,Beauty,Hair Dryer,2,1881.34,5,Wallet,19-09-2025,3.8,4,No,3574.55
+ORD104140,CUST5157,47,Female,Bengaluru,Sports,Cricket Bat,3,2948.33,5,UPI,24-03-2025,3.9,8,No,8402.73
+ORD110649,CUST6786,30,Female,Chennai,Fashion,Handbag,1,1956.7,15,Net Banking,11-01-2025,4.2,5,No,1663.2
+ORD108730,CUST7153,33,Male,Hyderabad,Fashion,T-Shirt,4,994.29,10,UPI,16-05-2025,2.6,5,No,3579.44
+ORD109394,CUST2687,19,Female,Guntur,Electronics,Smartwatch,2,6740.82,10,Credit Card,23-10-2025,3.7,7,No,12133.47
+ORD103345,CUST3551,43,Male,Visakhapatnam,Home & Kitchen,Air Fryer,1,7197.58,10,UPI,10-08-2026,3.5,1,Yes,6477.82
+ORD112079,CUST3171,35,Male,Delhi,Electronics,Smartwatch,1,6546.14,10,Credit Card,05-12-2026,4.8,3,No,5891.53
+ORD108404,CUST3405,32,Male,Bengaluru,Sports,Yoga Mat,5,978.62,25,Credit Card,28-08-2025,4.5,5,No,3669.82
+ORD110376,CUST5647,40,Female,Warangal,Beauty,Moisturizer,1,649.25,25,COD,22-12-2026,2.5,6,No,486.94
+ORD110324,CUST5285,45,Male,Vijayawada,Home & Kitchen,Mixer Grinder,1,3468.86,5,Credit Card,16-09-2025,3.9,3,No,3295.41
+ORD107054,CUST7537,26,Male,Ahmedabad,Fashion,T-Shirt,1,927.15,0,Net Banking,14-04-2025,5,6,Yes,927.15
+ORD105206,CUST8000,44,Female,Visakhapatnam,Electronics,Smartphone,1,25150.96,15,COD,15-11-2026,3.8,6,No,21378.31
+ORD102590,CUST4407,38,Other,,Fashion,Shoes,1,2325.08,0,Net Banking,16-12-2026,3.9,6,No,2325.08
+ORD107318,CUST2212,22,Female,Mumbai,Books,Novel,3,500,10,Wallet,11-01-2025,2.8,5,No,1350.01
+ORD107435,CUST4989,99,Female,Visakhapatnam,Electronics,Headphones,3,2639.46,0,Net Banking,04-03-2025,3.8,2,Yes,7918.39
+ORD107460,CUST5613,47,Male,Bengaluru,Beauty,Hair Dryer,3,2463.28,10,Debit Card,13-12-2026,2.8,6,No,6650.87
+ORD102754,CUST5158,18,Female,Visakhapatnam,Electronics,Smartphone,3,24538.28,10,COD,05-02-2025,5,5,No,66253.37
+ORD105953,CUST4864,33,Female,Bengaluru,Fashion,Jeans,1,1622.69,20,Wallet,03-11-2026,5,5,No,1298.15
+ORD106019,CUST6021,37,Male,Pune,Beauty,Hair Dryer,1,2502.63,15,Wallet,26-08-2025,2.2,8,No,2127.23
+ORD112330,CUST6869,30,Female,Pune,Home & Kitchen,Mixer Grinder,1,3075.89,10,Credit Card,14-05-2025,4.4,5,No,2768.3
+ORD112084,CUST4571,35,Female,Delhi,Beauty,Moisturizer,3,761.1,5,,07-04-2025,4.4,1,Yes,2169.13
+ORD110406,CUST1206,32,Female,Kolkata,Electronics,Tablet,2,22386.09,10,Net Banking,07-11-2026,3.1,4,No,40294.97
+ORD100252,CUST2938,37,Male,Delhi,Sports,Yoga Mat,2,948.74,15,Debit Card,12-05-2025,4.2,1,No,1612.86
+ORD111850,CUST8888,35,Female,Bengaluru,Electronics,Smartwatch,1,6648.47,5,Wallet,29-01-2026,4.5,8,No,6316.05
+ORD101714,CUST5017,42,Female,Mumbai,Sports,Running Shoes,5,3320.24,5,Credit Card,03-09-2025,3.1,4,Yes,15771.14
+ORD106779,CUST7937,32,Male,Delhi,Fashion,Shoes,2,2453.82,20,Wallet,27-06-2025,2.7,6,No,3926.11
+ORD103708,CUST1501,39,Female,Ahmedabad,Beauty,Hair Dryer,3,2302.94,15,COD,12-12-2026,4.7,6,No,5872.51
+ORD107860,CUST6449,47,Male,Warangal,Beauty,Perfume,1,1963.7,30,Wallet,22-05-2025,2.8,7,No,1374.59
+ORD109531,CUST8858,43,Male,Ahmedabad,Home & Kitchen,Cookware Set,1,2429.5,25,Credit Card,05-06-2026,4.6,5,No,1822.13
+ORD114060,CUST3765,32,Female,Ahmedabad,Electronics,Headphones,1,3320.47,0,UPI,27-12-2025,3.7,6,No,3320.47
+ORD109593,CUST1374,32,Female,Pune,Books,Programming Book,1,908.39,10,Wallet,26-08-2026,3.7,4,No,817.55
+ORD110578,CUST6720,48,Male,Guntur,Fashion,Jacket,1,3336.57,10,Net Banking,15-05-2025,4.5,5,No,3002.91
+ORD107307,CUST3483,23,Female,Warangal,Electronics,Smartphone,1,22880.44,25,Credit Card,25-12-2026,4.8,3,No,17160.33
+ORD114875,CUST5458,43,Female,Vijayawada,Fashion,Handbag,1,2503.82,25,Debit Card,05-03-2026,4.6,5,No,1877.87
+ORD108447,CUST1612,30,Female,Hyderabad,Fashion,T-Shirt,1,928.94,20,Wallet,02-12-2026,2.1,5,No,743.15
+ORD114201,CUST3188,41,Male,Delhi,Home & Kitchen,Cookware Set,2,3174.41,,Credit Card,26-04-2026,4.2,2,No,4761.62
+ORD114156,CUST8749,23,Female,Visakhapatnam,Beauty,Hair Dryer,4,2104.5,5,Net Banking,11-04-2026,3.6,5,No,7997.1
+ORD103070,CUST4860,32,Female,Guntur,Fashion,Jeans,1,1657.56,20,Net Banking,25-09-2026,3.9,6,No,1326.05
+ORD102141,CUST8028,42,Male,Chennai,Sports,Yoga Mat,3,850.08,15,COD,20-01-2026,2.6,5,No,2167.7
+ORD112674,CUST8628,53,Male,Kolkata,Home & Kitchen,Bedsheet,3,1644.89,10,Wallet,13-11-2025,3.4,1,No,4441.2
+ORD110444,CUST7071,18,Female,Warangal,Home & Kitchen,Air Fryer,3,6348.82,10,Wallet,08-11-2025,3.3,3,No,17141.81
+ORD104257,CUST8743,44,Female,Chennai,Electronics,Headphones,2,2767.57,5,Wallet,06-08-2025,3.4,5,No,5258.38
+ORD113882,CUST5304,19,Other,Mumbai,Electronics,Smartwatch,2,6070.5,10,COD,30-10-2025,5,7,No,10926.89
+ORD101140,CUST5474,21,Male,Mumbai,Beauty,Face Wash,1,3319.38,5,COD,01-03-2025,4.2,6,No,3153.41
+ORD108886,CUST8849,36,Male,Warangal,Electronics,Laptop,1,63704.25,30,Debit Card,13-06-2026,4.1,5,No,44592.97
+ORD107991,CUST8179,38,Male,Guntur,Home & Kitchen,Air Fryer,2,6441.54,10,Net Banking,03-02-2025,4.3,7,No,11594.78
+ORD109939,CUST4636,39,Female,Visakhapatnam,Beauty,Makeup Kit,1,2168.43,20,Net Banking,27-10-2026,3.2,7,No,1734.74
+ORD102975,CUST5382,36,Female,Bengaluru,Home & Kitchen,Bedsheet,1,1699.4,20,Credit Card,30-05-2026,5,2,No,1359.52
+ORD105000,CUST4622,28,Female,Mumbai,Home & Kitchen,Cookware Set,1,2751.6,10,,25-10-2026,4.3,2,No,2476.44
+ORD105806,CUST1382,28,Male,Visakhapatnam,Beauty,Makeup Kit,1,2567.86,25,Debit Card,16-03-2026,3.9,6,Yes,1925.89
+ORD104075,CUST1345,18,Female,Ahmedabad,Electronics,Smartphone,2,23783.97,5,Wallet,31-07-2025,3.1,7,Yes,45189.55
+ORD103155,CUST1589,26,Male,Vijayawada,Electronics,Tablet,2,23176.93,20,Net Banking,20-03-2025,2.7,6,Yes,37083.09
+ORD103502,CUST1710,,Male,Warangal,Home & Kitchen,Mixer Grinder,1,4003.81,20,UPI,02-12-2025,3.6,3,Yes,3203.04
+ORD100388,CUST3880,43,Female,Vijayawada,Books,Novel,1,434.72,15,Net Banking,20-06-2026,3.4,5,Yes,369.51
+ORD100170,CUST2577,18,Female,Bengaluru,Books,Novel,2,513.28,5,Credit Card,27-01-2025,3.4,6,Yes,975.24
+ORD109712,CUST3877,27,,Ahmedabad,Fashion,T-Shirt,1,988.58,10,Net Banking,08-01-2026,4.9,6,No,889.72
+ORD104190,CUST1981,31,Female,Bengaluru,Home & Kitchen,Lamp,1,1274.14,20,Credit Card,28-10-2026,4.6,4,No,1019.31
+ORD103129,CUST5169,24,Female,Vijayawada,Beauty,Perfume,1,1544.72,15,Debit Card,06-07-2025,3.1,4,No,1313.01
+ORD114828,CUST6374,49,Male,Hyderabad,Electronics,Tablet,1,22641.22,10,Wallet,05-02-2026,3.7,4,No,20377.1
+ORD110625,CUST1961,20,Female,Vijayawada,Home & Kitchen,Air Fryer,4,6402.91,15,COD,09-07-2026,4.4,3,No,21769.9
+ORD109080,CUST5674,30,Male,Mumbai,Fashion,Shoes,1,2244.45,5,Wallet,08-10-2025,3.6,4,No,2132.23
+ORD114252,CUST3513,33,Female,Vijayawada,Electronics,Smartphone,1,25189.06,10,Credit Card,12-02-2025,2.6,5,No,22670.16
+ORD112687,CUST2788,27,Female,Chennai,Beauty,Perfume,1,1855.97,20,UPI,16-04-2025,4.3,3,No,1484.77
+ORD110139,CUST6193,33,Female,Chennai,Fashion,Jeans,1,1670.74,15,UPI,26-02-2025,4.3,1,No,1420.13
+ORD102055,CUST7748,39,Other,Pune,Fashion,Jeans,2,2058.82,0,Debit Card,16-12-2025,3.4,6,Yes,4117.63
+ORD112356,CUST5905,28,Male,Mumbai,Fashion,Handbag,1,2514.19,10,Net Banking,30-05-2025,3.9,4,No,2262.77
+ORD100933,CUST7882,38,,Vijayawada,Fashion,Shoes,2,2815.57,5,UPI,25-06-2026,5,6,No,5349.58
+ORD105850,CUST7636,34,Male,Guntur,Beauty,Makeup Kit,1,2405.45,5,Net Banking,13-05-2026,3.4,6,No,2285.18
+ORD112836,CUST8687,,Male,Guntur,Electronics,Smartwatch,3,8015.48,20,Credit Card,31-07-2025,4.1,5,No,19237.15
+ORD105408,CUST7288,28,Male,Kolkata,Electronics,Smartphone,5,23987.38,10,Net Banking,01-06-2025,3,9,No,107943.2
+ORD101271,CUST3101,32,Other,Mumbai,Books,Exam Guide,1,632.97,25,Debit Card,12-05-2026,2.8,3,No,474.72
+ORD112506,CUST2006,32,Male,Guntur,Electronics,Tablet,1,24373.14,25,COD,23-03-2025,3.1,2,No,18279.86
+ORD102217,CUST7450,33,Female,Guntur,Electronics,Headphones,1,3287.15,10,Net Banking,10-02-2025,3.3,6,No,2958.43
+ORD105130,CUST4199,37,Female,Vijayawada,Books,Exam Guide,2,655.77,0,Credit Card,12-10-2025,4.6,5,No,1311.54
+ORD110765,CUST2192,19,Female,Bengaluru,Home & Kitchen,Lamp,1,1067.66,10,Credit Card,12-02-2026,4.3,6,No,960.89
+ORD107999,CUST5384,38,Male,Chennai,Electronics,Headphones,2,3140.03,5,COD,25-01-2026,5,6,No,5966.05
+ORD109237,CUST4372,36,Female,Pune,Fashion,Jeans,1,1752.26,5,,19-10-2026,3.6,4,Yes,1664.65
+ORD102445,CUST3970,30,Male,Bengaluru,Home & Kitchen,Air Fryer,1,6224.25,15,UPI,26-12-2025,3.1,5,No,5290.61
+ORD108535,CUST8850,27,Female,Hyderabad,Beauty,Makeup Kit,2,2659.77,15,Wallet,30-06-2025,4.1,2,No,4521.61
+ORD112535,CUST5589,39,Female,Ahmedabad,Fashion,Jacket,4,3364.68,0,Credit Card,16-03-2025,4.4,4,No,13458.71
+ORD104833,CUST4943,19,Female,Warangal,Beauty,Face Wash,1,505.11,20,Wallet,18-01-2026,4.3,3,No,404.08
+ORD109153,CUST8720,30,Female,Warangal,Home & Kitchen,Cookware Set,1,2895.75,10,Debit Card,17-04-2026,3.6,3,No,2606.18
+ORD113115,CUST2861,21,Female,Chennai,Electronics,Smartphone,1,27924.21,10,Credit Card,13-08-2025,4.2,4,No,25131.79
+ORD108257,CUST6679,34,Male,Warangal,Beauty,Hair Dryer,3,1963.07,15,COD,26-04-2025,4,7,Yes,5005.82
+ORD105141,CUST4453,34,Female,Pune,Home & Kitchen,Lamp,3,1194.55,5,COD,25-01-2026,2.7,3,No,3404.47
+ORD111157,CUST5201,40,Female,Delhi,Books,Exam Guide,4,640.47,15,Debit Card,11-04-2025,4.3,6,No,2177.59
+ORD105271,CUST8766,26,,Chennai,Books,Programming Book,1,804.38,15,Credit Card,03-08-2026,3.4,4,No,683.73
+ORD107202,CUST1260,36,Male,Hyderabad,Fashion,Handbag,1,2206.36,0,Credit Card,24-09-2025,3.3,3,No,2206.36
+ORD103367,CUST5844,35,Female,Kolkata,Beauty,Hair Dryer,1,2235.09,20,COD,10-07-2026,4.7,6,No,1788.07
+ORD109821,CUST8677,18,Female,Mumbai,Sports,Cricket Bat,2,2758.82,5,Wallet,08-12-2026,3,6,Yes,5241.75
+ORD105036,CUST2911,29,Male,Kolkata,Electronics,Smartphone,1,23506.64,20,Wallet,20-08-2026,4,6,No,18805.31
+ORD105220,CUST2136,33,Other,Kolkata,Electronics,Headphones,1,3094.07,15,COD,03-07-2025,4,5,Yes,2629.96
+ORD107970,CUST4102,22,Male,Guntur,Electronics,Tablet,4,19438.73,0,UPI,23-03-2026,2.7,8,No,77754.9
+ORD112981,CUST3337,24,female,Guntur,Electronics,Tablet,1,25030.85,0,Wallet,23-01-2026,3.9,5,No,25030.85
+ORD112763,CUST3251,25,Female,Pune,Fashion,Jacket,1,2704.17,10,Net Banking,24-01-2026,2.7,6,No,2433.75
+ORD109365,CUST5743,32,Male,Vijayawada,Beauty,Moisturizer,4,609.29,20,Wallet,12-09-2025,3.3,5,No,1949.73
+ORD108411,CUST3564,26,Female,Guntur,Beauty,Face Wash,1,502.16,10,Wallet,17-01-2026,4.1,5,No,451.94
+ORD103990,CUST5249,43,Female,Chennai,Books,Novel,3,444.49,10,COD,11-12-2026,3.5,5,No,1200.12
+ORD108676,CUST6636,33,Male,Ahmedabad,Beauty,Makeup Kit,1,2414.16,20,COD,03-01-2025,4.2,5,No,1931.33
+ORD111565,CUST1318,35,Male,Mumbai,Electronics,Smartphone,5,22540.06,25,Credit Card,02-11-2026,4,4,No,84525.24
+ORD114555,CUST3939,31,Male,Visakhapatnam,Home & Kitchen,Air Fryer,1,6097.63,5,Wallet,13-02-2025,4.6,3,No,5792.75
+ORD113562,CUST7245,39,Female,Mumbai,Electronics,Headphones,3,3430.64,10,Net Banking,24-10-2026,3.7,6,No,9262.72
+ORD110183,CUST6445,36,Female,Guntur,Electronics,Headphones,4,2765.13,5,Net Banking,10-04-2026,4,2,Yes,10507.51
+ORD102499,CUST4933,31,Male,Vijayawada,Sports,Cricket Bat,1,2694.52,20,Credit Card,10-05-2026,3.2,4,No,2155.62
+ORD114335,CUST7563,41,Female,Kolkata,Electronics,Smartphone,1,28418.66,15,Wallet,01-01-2026,4.5,4,No,24155.86
+ORD110403,CUST5668,24,Female,Chennai,Home & Kitchen,Mixer Grinder,2,3619.69,5,UPI,08-08-2025,4.2,5,No,6877.41
+ORD114021,CUST5991,38,Male,Bengaluru,Beauty,Moisturizer,2,798.63,20,Net Banking,14-02-2025,3.3,3,No,1277.81
+ORD100340,CUST4871,32,Male,Visakhapatnam,Books,Exam Guide,1,706.41,20,Wallet,05-02-2025,,5,No,565.13
+ORD102772,CUST6095,20,Female,Ahmedabad,Sports,Football,2,1127.93,15,Credit Card,06-01-2025,3.8,4,No,1917.48
+ORD113538,CUST1602,18,Male,Mumbai,Books,Biography,1,732.56,20,Wallet,31-01-2026,4.9,5,No,586.05
+ORD103493,CUST6697,18,Female,Delhi,Sports,Dumbbells,3,2454.79,30,Wallet,07-07-2026,3.4,7,No,5155.07
+ORD109420,CUST2557,25,Female,Visakhapatnam,Books,Biography,1,715.23,15,Net Banking,15-05-2026,2.9,5,No,607.95
+ORD108711,CUST8906,36,Male,Hyderabad,Beauty,Face Wash,2,569.02,10,Net Banking,02-07-2026,3.7,5,No,1024.24
+ORD100089,CUST4176,32,,Ahmedabad,Electronics,Smartphone,4,23949.53,20,Wallet,24-02-2025,3.9,3,No,76638.48
+ORD111733,CUST5095,38,Female,Chennai,Books,Biography,1,702.27,0,UPI,23-05-2025,5,8,No,702.27
+ORD109823,CUST7261,27,Male,Mumbai,Home & Kitchen,Lamp,4,1233.7,20,COD,02-10-2026,4,5,No,3947.83
+ORD114692,CUST2343,51,Female,Ahmedabad,Electronics,Tablet,2,24999.61,10,Wallet,20-08-2025,4.6,4,No,44999.29
+ORD106188,CUST8064,27,Female,Pune,Fashion,Jeans,1,2000.68,20,Net Banking,05-06-2026,4.6,5,No,1600.54
+ORD101715,CUST4254,38,Male,Pune,Fashion,T-Shirt,3,913.67,15,Credit Card,08-08-2025,3.9,1,No,2329.86
+ORD107795,CUST4244,18,Male,Warangal,Home & Kitchen,Air Fryer,1,7402.29,15,Credit Card,12-05-2025,3.8,6,No,6291.95
+ORD102563,CUST4526,33,Female,Kolkata,Beauty,Moisturizer,2,605.9,,Net Banking,19-04-2025,4.4,4,No,1211.81
+ORD111961,CUST1398,34,Male,Pune,Home & Kitchen,Lamp,4,1254.48,15,Net Banking,16-01-2026,3.6,3,No,4265.24
+ORD114377,CUST6896,28,Female,Kolkata,Fashion,Handbag,2,2203.5,25,Wallet,30-08-2025,4.2,4,Yes,3305.25
+ORD107707,CUST8964,30,Male,Mumbai,Electronics,Headphones,3,3065.05,10,Wallet,12-12-2025,3.5,3,No,8275.64
+ORD113633,CUST8136,33,Female,Guntur,Books,Programming Book,5,857.18,15,COD,15-04-2026,3.6,4,No,3643.02
+ORD107316,CUST2177,44,Male,,Electronics,Smartphone,3,27470.03,10,Net Banking,26-08-2025,3.8,5,No,74169.08
+ORD107493,CUST7236,30,Female,Pune,Beauty,Face Wash,1,493.24,15,Net Banking,04-03-2026,4,7,No,419.25
+ORD103015,CUST1373,25,Male,Warangal,Fashion,Handbag,2,1998.51,0,COD,01-07-2026,,6,No,3997.02
+ORD109034,CUST1494,36,Male,Ahmedabad,Sports,Cricket Bat,1,3191.28,15,Wallet,19-10-2025,4.7,4,No,2712.59
+ORD114997,CUST2931,33,Male,Hyderabad,Home & Kitchen,Lamp,1,1122.14,10,Debit Card,02-09-2025,3.7,4,No,1009.93
+ORD110374,CUST7538,38,Male,Hyderabad,Electronics,Smartphone,4,22127.84,15,Wallet,10-03-2025,5,3,yes,75234.67
+ORD112975,CUST8870,35,Male,Chennai,Electronics,Smartphone,1,23946.71,10,Net Banking,13-09-2025,5,2,Yes,21552.04
+ORD108423,CUST8163,34,Female,Mumbai,Beauty,Face Wash,1,573.19,5,UPI,14-12-2026,3.6,7,No,544.54
+ORD102679,CUST4646,,Female,Mumbai,Beauty,Perfume,2,1708.06,5,Wallet,06-12-2026,4.2,4,No,3245.32
+ORD101684,CUST3020,32,Female,,Fashion,Jacket,1,3335.07,10,COD,09-06-2025,4.6,3,Yes,3001.57
+ORD110497,CUST4414,31,Male,Warangal,Fashion,Handbag,3,2167.08,10,UPI,14-08-2025,3.3,5,No,5851.12
+ORD106225,CUST6447,40,Male,Pune,Home & Kitchen,Bedsheet,1,1326.16,10,Credit Card,07-08-2026,3.1,4,No,1193.55
+ORD102418,CUST5404,23,Female,Bengaluru,Home & Kitchen,Air Fryer,3,5699.61,0,COD,16-03-2026,3.9,1,No,17098.84
+ORD111570,CUST8384,43,Male,Kolkata,Home & Kitchen,Air Fryer,1,7140.61,5,Net Banking,20-01-2026,4.5,1,No,6783.58
+ORD105555,CUST8320,52,Male,Guntur,Beauty,Perfume,1,1908.07,15,UPI,10-01-2026,3.9,,No,1621.86
+ORD102958,CUST5996,38,Female,Ahmedabad,Electronics,Smartwatch,1,6260.54,10,COD,03-07-2025,3,5,No,5634.49
+ORD113346,CUST7611,46,Female,Visakhapatnam,Sports,Football,1,1324.72,15,Net Banking,03-01-2026,5,5,No,1126.01
+ORD110925,CUST8547,27,Female,Delhi,Fashion,Shoes,1,2375.55,5,Credit Card,06-06-2026,3.3,6,No,2256.77
+ORD103214,CUST1946,31,Female,Bengaluru,Home & Kitchen,Lamp,1,1284.35,15,UPI,11-02-2026,2.6,3,No,1091.7
+ORD110299,CUST6762,31,Female,Vijayawada,Home & Kitchen,Lamp,1,1271.22,20,Debit Card,04-07-2025,5,4,No,1016.97
+ORD112646,CUST6034,28,Other,,Sports,Running Shoes,3,3813.89,20,Wallet,17-12-2025,4.8,,No,9153.35
+ORD105779,CUST1031,40,,Warangal,Beauty,Face Wash,2,569.06,25,Debit Card,26-03-2026,3.2,4,No,853.59
+ORD113494,CUST4800,37,female,Bengaluru,Fashion,Shoes,3,2310.52,0,Debit Card,20-08-2025,4.7,2,No,6931.55
+ORD100933,CUST7882,38,,Vijayawada,Fashion,Shoes,2,2815.57,5,UPI,25-06-2026,5,6,No,5349.58
+ORD112190,CUST1823,34,Female,Ahmedabad,Electronics,Headphones,2,3128.97,25,Net Banking,14-07-2026,4,2,No,4693.46
+ORD106881,CUST7993,31,Female,Hyderabad,Electronics,Smartphone,1,25687.98,15,Debit Card,10-09-2026,4.8,4,No,21834.78
+ORD101945,CUST2963,18,Other,Delhi,Sports,Cricket Bat,1,3197.72,0,Credit Card,25-11-2026,3.6,2,No,3197.72
+ORD113102,CUST7973,23,Female,Delhi,Electronics,Smartphone,1,22687.51,5,UPI,14-10-2025,3.5,4,No,21553.14
+ORD110505,CUST7475,36,Male,Ahmedabad,Beauty,Face Wash,5,572.4,20,Debit Card,09-05-2025,,7,No,2289.6
+ORD104116,CUST2125,18,Female,Chennai,Fashion,Handbag,1,1948.72,30,Credit Card,16-02-2025,4.5,5,No,1364.11
+ORD107912,CUST6056,36,Female,Vijayawada,Electronics,Smartwatch,2,6641.88,10,Net Banking,09-12-2026,4.3,6,No,11955.39
+ORD107972,CUST6532,28,Female,Vijayawada,Electronics,Headphones,1,3393.16,0,Credit Card,22-02-2025,3.9,1,Yes,3393.16
+ORD114815,CUST8295,33,Male,Kolkata,Electronics,Laptop,1,51413.15,15,UPI,24-12-2026,2.5,4,No,43701.18
+ORD103618,CUST2115,26,Male,Bengaluru,Electronics,Smartwatch,3,6527.81,10,Wallet,02-03-2026,2.9,2,No,17625.09
+ORD102526,CUST8503,23,Female,Delhi,Electronics,Tablet,1,22377.66,5,COD,11-02-2025,3.9,7,No,21258.77
+ORD102070,CUST4025,30,Female,Delhi,Home & Kitchen,Cookware Set,1,3020.18,30,Credit Card,20-04-2026,3.6,7,Yes,2114.13
+ORD105285,CUST6296,27,Female,Chennai,Electronics,Laptop,3,55782.6,10,Wallet,01-10-2026,3.8,8,No,150613.03
+ORD104731,CUST3439,26,Female,Pune,Fashion,T-Shirt,1,783.55,5,Wallet,12-09-2025,4.5,8,No,744.37
+ORD100709,CUST7554,25,Female,Guntur,Fashion,T-Shirt,1,1020.76,20,Net Banking,28-05-2025,4.2,4,No,816.61
+ORD102639,CUST8364,18,Female,Hyderabad,Sports,Cricket Bat,1,3261.02,15,Net Banking,17-08-2026,3.4,3,No,2771.87
+ORD101108,CUST1296,37,Female,Warangal,Fashion,Jacket,1,2805.99,10,COD,28-06-2026,3.8,4,Yes,2525.39
+ORD108848,CUST7104,18,Male,Bengaluru,Home & Kitchen,Lamp,1,1296.51,0,upi,29-08-2025,2.7,6,No,1296.51
+ORD104853,CUST8466,27,Female,Warangal,Sports,Cricket Bat,1,2687.08,10,Net Banking,04-09-2025,4.2,1,Yes,2418.37
+ORD104251,CUST1402,38,Female,Guntur,Fashion,T-Shirt,1,985.88,30,Debit Card,28-01-2025,4.8,7,No,690.12
+ORD100795,CUST2962,38,Female,Visakhapatnam,Electronics,Laptop,1,52508.85,5,Credit Card,22-07-2025,3.3,2,No,49883.41
+ORD108720,CUST7492,49,Female,Chennai,Electronics,Headphones,1,3392.66,20,COD,12-01-2026,3.8,2,No,2714.13
+ORD103422,CUST2966,22,Male,Vijayawada,Fashion,T-Shirt,2,878.43,10,UPI,12-08-2026,4.3,4,Yes,1581.17
+ORD113470,CUST8141,31,male,Kolkata,Electronics,Tablet,1,24429.85,0,Wallet,06-10-2025,3.7,3,No,24429.85
+ORD113179,CUST4615,33,Male,Visakhapatnam,Electronics,Tablet,1,23445.94,10,Wallet,18-10-2026,4.4,5,No,21101.34
+ORD101494,CUST4130,25,Female,Delhi,Beauty,Moisturizer,2,711.8,25,Credit Card,27-06-2025,5,7,No,1067.71
+ORD103746,CUST3912,37,Male,Hyderabad,Beauty,Moisturizer,3,658.66,10,UPI,01-10-2026,4.6,4,No,1778.38
+ORD100904,CUST4420,40,Male,Ahmedabad,Home & Kitchen,Air Fryer,1,7357.3,20,Credit Card,04-05-2025,4.7,6,No,5885.84
+ORD109355,CUST1133,46,Female,Vijayawada,Beauty,Moisturizer,2,596.84,0,COD,02-03-2025,3.5,3,No,1193.67
+ORD112446,CUST3715,24,Male,Kolkata,Electronics,Smartphone,1,26690.35,0,UPI,10-12-2025,4.8,7,No,26690.35
+ORD106224,CUST1239,18,Male,Ahmedabad,Electronics,Tablet,1,25044.76,5,Net Banking,09-07-2026,4.1,5,No,23792.53
+ORD105195,CUST4950,29,Female,Pune,Sports,Dumbbells,1,2584.94,5,UPI,11-06-2026,2.6,4,No,2455.69
+ORD108133,CUST7975,30,Female,Visakhapatnam,Sports,Football,2,1227.59,15,Wallet,08-07-2026,3.6,7,No,2086.91
+ORD108540,CUST7748,36,Female,Hyderabad,Fashion,T-Shirt,4,781.58,5,COD,23-12-2026,5,4,No,2969.99
+ORD100352,CUST2016,32,Male,Pune,Electronics,Tablet,2,21781.19,5,COD,19-08-2026,4.5,5,No,41384.26
+ORD104808,CUST7106,24,Female,Mumbai,Home & Kitchen,Cookware Set,3,2384.78,10,UPI,11-06-2025,4.5,4,No,6438.89
+ORD106724,CUST6761,29,Male,Vijayawada,Electronics,Smartwatch,2,7719.05,5,Net Banking,11-04-2025,3.2,5,No,14666.2
+ORD107640,CUST8623,30,Male,Delhi,Fashion,Jacket,2,3160.12,10,UPI,28-09-2026,3.5,1,No,5688.21
+ORD111876,CUST3519,18,Female,Visakhapatnam,Fashion,Handbag,3,2212.42,5,UPI,06-10-2025,,4,No,6305.41
+ORD103616,CUST6361,39,Male,Chennai,Beauty,Face Wash,1,471.88,25,Wallet,14-04-2026,3,3,No,353.91
+ORD114565,CUST7594,46,Male,Chennai,Beauty,Moisturizer,5,713.52,15,UPI,14-06-2026,3.7,6,Yes,3032.45
+ORD109648,CUST1911,26,Male,Mumbai,Home & Kitchen,Lamp,1,1115.84,0,UPI,28-03-2025,4,5,No,1115.84
+ORD106419,CUST6231,35,Female,Visakhapatnam,Sports,Football,2,1316.21,5,Debit Card,21-08-2026,3.3,7,No,2500.81
+ORD101054,CUST6648,43,Male,Guntur,Electronics,Headphones,2,2929.98,30,Wallet,12-01-2025,2.1,4,No,4101.97
+ORD111226,CUST3573,28,Male,Pune,Electronics,Laptop,1,55444.3,15,UPI,11-12-2025,3.3,5,No,47127.66
+ORD110043,CUST8138,31,Female,Guntur,Home & Kitchen,Cookware Set,1,2563.33,15,Wallet,15-03-2026,3.4,6,No,2178.83
+ORD110896,CUST8689,26,Male,Delhi,Books,Novel,4,457.95,10,COD,08-06-2026,2.3,4,No,1648.6
+ORD102338,CUST6899,18,Female,Bengaluru,Fashion,Jeans,1,1979.51,20,COD,24-06-2026,3.3,5,Yes,1583.61
+ORD111045,CUST3239,31,Female,Mumbai,Home & Kitchen,Bedsheet,1,1510.16,25,Credit Card,08-06-2026,5,2,No,1132.62
+ORD108487,CUST6246,45,Female,Visakhapatnam,Books,Data Science Book,3,1206.36,5,Net Banking,21-02-2026,4.4,4,No,3438.12
+ORD112465,CUST5660,23,Male,Warangal,Sports,Dumbbells,1,2690.02,25,Debit Card,07-10-2026,3.1,3,Yes,2017.51
+ORD109341,CUST7818,29,Female,Pune,Electronics,Laptop,3,65904.73,25,UPI,10-10-2026,3.8,4,No,148285.64
+ORD105280,CUST7294,28,Female,Delhi,Beauty,Makeup Kit,1,2760.16,20,Debit Card,14-07-2025,3.8,4,Yes,2208.13
+ORD106863,CUST6528,34,Male,Kolkata,Electronics,Smartphone,1,24152.1,0,Wallet,08-12-2025,3,6,No,24152.1
+ORD112104,CUST1012,38,male,Bengaluru,Home & Kitchen,Cookware Set,4,2468.33,0,Credit Card,15-05-2025,,3,No,9873.32
+ORD101454,CUST3405,19,Female,Kolkata,Books,Novel,4,569.72,5,Net Banking,29-08-2026,3.5,6,No,2164.92
+ORD105404,CUST8758,32,Female,Bengaluru,Electronics,Tablet,1,24394.44,10,Debit Card,15-05-2026,4.5,3,No,21955
+ORD103430,CUST3380,39,Female,Vijayawada,Sports,Cricket Bat,3,3145.4,20,Net Banking,01-04-2026,3.6,4,No,7548.97
+ORD114343,CUST4388,34,Female,Delhi,Fashion,Handbag,2,1921.06,20,COD,30-05-2026,2.6,3,No,3073.7
+ORD102910,CUST4814,24,Male,Kolkata,Home & Kitchen,Mixer Grinder,1,3971.02,0,UPI,26-03-2026,4,4,No,3971.02
+ORD113916,CUST1169,38,,Chennai,Home & Kitchen,Bedsheet,3,1550.21,5,Debit Card,24-09-2025,4.9,10,Yes,4418.11
+ORD107873,CUST7947,31,Male,Warangal,Fashion,Handbag,2,2147.5,20,COD,25-03-2026,4.5,7,Yes,3436
+ORD108613,CUST5046,24,Male,Warangal,Home & Kitchen,Mixer Grinder,1,3944.32,5,Debit Card,06-01-2025,2.1,8,No,3747.1
+ORD109854,CUST1508,40,Male,Delhi,Electronics,Smartwatch,2,7728.58,15,Debit Card,23-03-2026,4.6,5,No,13138.59
+ORD114992,CUST8616,29,Female,Kolkata,Electronics,Smartwatch,4,7068.9,25,Debit Card,30-11-2026,5,6,No,21206.71
+ORD114600,CUST5300,41,Female,Guntur,Beauty,Perfume,4,1763.79,20,COD,24-01-2026,,5,No,5644.11
+ORD108024,CUST1965,36,Male,Hyderabad,Fashion,Jacket,2,3431.18,0,Net Banking,16-07-2025,4.3,5,No,6862.36
+ORD108350,CUST6335,32,Female,Warangal,Electronics,Tablet,1,22999.27,15,UPI,01-07-2026,3.4,5,No,19549.38
+ORD105067,CUST2053,39,Female,Mumbai,Home & Kitchen,Bedsheet,5,1564.26,0,Debit Card,20-03-2025,4.8,7,No,7821.29
+ORD107827,CUST1775,39,Female,Ahmedabad,Sports,Cricket Bat,1,3188.13,5,UPI,02-04-2026,2.8,4,No,3028.72
+ORD105095,CUST7214,51,Male,Visakhapatnam,Books,Programming Book,2,907.68,10,Credit Card,03-09-2026,3.1,4,No,1633.82
+ORD108795,CUST4206,23,Male,Hyderabad,Home & Kitchen,Mixer Grinder,2,3695.24,0,Net Banking,14-10-2025,4.8,5,No,7390.48
+ORD105999,CUST6900,35,Male,Visakhapatnam,Sports,Football,1,1044.66,0,Net Banking,20-03-2026,4.3,3,No,1044.66
+ORD100412,CUST3593,21,Male,Hyderabad,Beauty,Hair Dryer,2,2106.66,0,Net Banking,18-08-2025,4.4,6,No,4213.32
+ORD106876,CUST8388,40,Male,Mumbai,Home & Kitchen,Lamp,1,1135.03,15,Debit Card,14-07-2026,4.6,6,No,964.77
+ORD106432,CUST4612,43,Female,Delhi,Fashion,Handbag,2,2456.05,10,Debit Card,27-07-2025,3.3,5,No,4420.9
+ORD111509,CUST2183,37,Female,Chennai,Sports,Dumbbells,3,2355.5,10,Credit Card,06-05-2026,4.4,7,No,6359.84
+ORD109697,CUST7727,34,Male,Warangal,Fashion,Jeans,1,1852.14,15,UPI,25-05-2026,3.1,6,No,1574.32
+ORD104128,CUST4377,38,Female,Ahmedabad,Home & Kitchen,Bedsheet,2,1391.41,0,Net Banking,10-06-2026,,4,No,2782.82
+ORD106202,CUST4010,33,Male,Pune,Home & Kitchen,Cookware Set,1,3021.39,20,UPI,19-08-2025,3.1,4,No,2417.11
+ORD112135,CUST5052,50,Female,Warangal,Sports,Dumbbells,3,2314.39,10,Credit Card,16-07-2026,1.4,5,No,6248.85
+ORD100829,CUST4869,31,Male,Ahmedabad,Sports,Yoga Mat,1,806.63,10,COD,28-05-2025,5,6,No,725.96
+ORD101723,CUST7364,20,Male,Visakhapatnam,Beauty,Perfume,1,1962.91,5,UPI,31-08-2026,3.9,6,No,1864.76
+ORD110370,CUST3138,23,Male,Ahmedabad,Books,Programming Book,1,854,30,Wallet,31-03-2025,4.2,4,No,597.8
+ORD114119,CUST5151,47,Male,Kolkata,Beauty,Hair Dryer,1,2373.62,30,Credit Card,09-05-2025,3.9,3,No,1661.53
+ORD112334,CUST4297,45,Male,Kolkata,Fashion,Jeans,1,1593.85,10,COD,17-09-2026,3.3,5,No,1434.47
+ORD104411,CUST7517,44,Female,Hyderabad,Fashion,Jacket,1,3068.66,5,UPI,11-08-2026,3.7,1,No,2915.22
+ORD101548,CUST8609,29,,Pune,Beauty,Face Wash,2,435.32,10,Credit Card,23-10-2026,3.3,3,Yes,783.57
+ORD108687,CUST5612,23,male,Chennai,Beauty,Moisturizer,1,606.36,10,UPI,02-10-2025,5,8,No,545.72
+ORD101731,CUST2308,47,Female,Hyderabad,Books,Programming Book,4,685.92,10,Credit Card,29-05-2026,3.9,2,No,2469.33
+ORD107947,CUST1615,31,Female,Vijayawada,Books,Novel,1,455.25,5,Wallet,30-09-2026,3.8,5,No,432.49
+ORD109981,CUST3419,18,Female,Bengaluru,Fashion,T-Shirt,3,774.67,15,UPI,28-12-2026,3.1,4,No,1975.42
+ORD109310,CUST3808,37,Male,Ahmedabad,Home & Kitchen,Bedsheet,2,1721.4,25,Credit Card,19-02-2025,4,4,No,2582.1
+ORD100100,CUST1636,38,Female,Pune,Books,Biography,1,678.66,0,Net Banking,22-08-2026,3.4,1,No,678.66
+ORD113982,CUST1055,43,Female,Guntur,Fashion,T-Shirt,1,880.41,20,Credit Card,20-02-2025,5,4,No,704.33
+ORD110562,CUST5605,41,Female,Hyderabad,Home & Kitchen,Mixer Grinder,2,3850.64,5,UPI,08-04-2025,4.2,6,No,7316.21
+ORD113360,CUST7366,25,Female,Visakhapatnam,Electronics,Headphones,2,3359.46,15,Wallet,17-11-2025,3.4,6,No,5711.08
+ORD111960,CUST6771,25,Male,Pune,Electronics,Smartwatch,5,7354.3,0,UPI,29-05-2025,3.6,3,No,36771.51
+ORD111423,CUST2584,37,Male,Kolkata,Beauty,Moisturizer,1,721.21,20,Debit Card,05-10-2025,4,3,No,576.97
+ORD100291,CUST5259,21,Male,Delhi,Sports,Cricket Bat,1,3016.54,15,Credit Card,25-08-2025,4.4,3,Yes,2564.06
+ORD107311,CUST5391,29,Female,Pune,Fashion,Shoes,4,2604.04,25,Wallet,10-11-2026,4.6,8,No,7812.11
+ORD105080,CUST2086,29,Female,Kolkata,Beauty,Hair Dryer,1,2350.67,30,Credit Card,30-05-2025,4.7,1,No,1645.47
+ORD104404,CUST6915,18,Female,Warangal,Fashion,T-Shirt,2,812.15,10,UPI,03-06-2026,3.6,9,No,1461.87
+ORD102228,CUST5896,43,Male,Warangal,Electronics,Tablet,2,24381.92,10,COD,05-08-2025,2.9,2,No,43887.46
+ORD108142,CUST7255,39,,Guntur,Fashion,Shoes,2,2161.22,15,Net Banking,15-08-2025,2.9,6,No,3674.07
+ORD101087,CUST3528,46,Female,Ahmedabad,Beauty,Perfume,2,1636.72,25,Credit Card,22-12-2025,5,1,No,2455.08
+ORD102615,CUST4218,27,Female,Warangal,Fashion,Shoes,1,2302.19,5,COD,25-01-2026,4.4,7,No,2187.08
+ORD113422,CUST5447,27,Female,Visakhapatnam,Sports,Running Shoes,2,3098.62,15,Net Banking,16-01-2025,5,5,No,5267.66
+ORD101954,CUST2340,46,Female,Kolkata,Books,Data Science Book,2,1082.76,10,Net Banking,10-01-2025,4.5,4,No,1948.97
+ORD105690,CUST7347,37,Male,Hyderabad,Sports,Running Shoes,2,3809.02,15,Wallet,17-08-2025,2.5,7,No,6475.33
+ORD111618,CUST4095,30,Male,Warangal,Electronics,Smartphone,1,21335.45,5,Debit Card,21-09-2025,4.9,4,No,20268.68
+ORD107052,CUST5772,42,Male,Mumbai,Electronics,Headphones,2,2568.77,0,Net Banking,03-08-2026,4.1,4,Yes,5137.54
+ORD107524,CUST7260,28,Female,Guntur,Electronics,Smartphone,1,28584.37,0,Credit Card,25-07-2025,,5,No,28584.37
+ORD112502,CUST8225,51,Male,Vijayawada,Electronics,Laptop,1,53619.7,15,Credit Card,07-01-2025,3.4,4,No,45576.74
+ORD103843,CUST6677,33,Other,Visakhapatnam,Beauty,Moisturizer,1,662.1,5,COD,04-07-2025,,5,No,628.99
+ORD100287,CUST3407,18,Female,Visakhapatnam,Electronics,Laptop,3,57666.74,20,Debit Card,06-01-2026,4.6,3,No,138400.18
+ORD108226,CUST8836,27,Female,Mumbai,Electronics,Smartwatch,1,6961.09,10,UPI,27-10-2025,5,4,No,6264.98
+ORD110681,CUST8548,34,Male,Bengaluru,Home & Kitchen,Air Fryer,4,5720.86,25,,24-05-2025,2.3,4,No,17162.57
+ORD101011,CUST6787,,Female,Pune,Beauty,Makeup Kit,5,2785.12,20,Wallet,26-03-2025,2.5,5,No,11140.47
+ORD107626,CUST4274,,Male,Kolkata,Electronics,Tablet,1,20004.37,25,Debit Card,31-05-2025,1.7,,No,15003.27
+ORD102484,CUST5642,44,Male,Vijayawada,Fashion,Handbag,2,2206.88,10,COD,04-12-2025,2.5,3,Yes,3972.38
+ORD106197,CUST1030,22,Female,Pune,Beauty,Face Wash,2,481.4,25,UPI,15-11-2026,4.7,5,No,722.1
+ORD112790,CUST6662,21,Female,Kolkata,Fashion,Jeans,2,1696.05,20,UPI,11-05-2025,3.4,3,No,2713.68
+ORD112719,CUST2225,30,Female,Ahmedabad,Fashion,T-Shirt,2,790.64,15,Debit Card,06-04-2026,3.5,3,Yes,1344.08
+ORD107376,CUST3163,20,Female,Visakhapatnam,Electronics,Smartwatch,1,7395.54,5,Credit Card,22-06-2026,3.4,5,No,7025.76
+ORD101721,CUST6857,20,Male,Hyderabad,Electronics,Smartphone,4,21632.21,15,COD,08-12-2026,3,1,No,73549.5
+ORD105480,CUST1822,18,Female,Visakhapatnam,Books,Data Science Book,2,1353.69,20,Credit Card,24-12-2026,2.8,2,No,2165.9
+ORD102349,CUST6943,18,Male,Vijayawada,Electronics,Laptop,1,67584.17,15,Net Banking,19-05-2026,5,3,No,57446.55
+ORD104521,CUST4535,26,Female,Ahmedabad,Electronics,Smartwatch,3,6818.9,15,Debit Card,25-11-2025,4.3,2,No,17388.19
+ORD109683,CUST1029,29,Female,Mumbai,Books,Exam Guide,2,734.22,10,Credit Card,21-12-2025,3.7,4,No,1321.6
+ORD114765,CUST7930,46,Male,Bengaluru,Electronics,Smartwatch,4,6662.03,20,COD,01-04-2026,1.9,8,No,21318.5
+ORD103376,CUST8701,32,Male,Hyderabad,Fashion,Jeans,2,1676.9,0,Debit Card,18-12-2025,3.6,,No,3353.8
+ORD103707,CUST4519,38,Female,Ahmedabad,Fashion,T-Shirt,2,880.45,10,Net Banking,10-02-2025,4.4,3,No,1584.8
+ORD106105,CUST2389,49,Female,Pune,Fashion,Jeans,1,1671.11,15,Net Banking,19-12-2025,5,3,No,1420.44
+ORD106519,CUST6025,40,Female,Vijayawada,Electronics,Laptop,1,53843.36,20,Debit Card,15-12-2026,3.1,2,No,43074.69
+ORD105800,CUST5810,28,Female,Pune,Fashion,Shoes,2,2459.39,10,Debit Card,18-12-2026,3,6,No,4426.9
+ORD100737,CUST3553,23,Female,Warangal,Electronics,Tablet,5,24138.82,5,Credit Card,13-09-2026,4.1,1,Yes,114659.4
+ORD110631,CUST1205,27,Female,Guntur,Electronics,Tablet,4,20824.05,15,UPI,30-11-2026,4.2,4,No,70801.77
+ORD105461,CUST8849,23,Female,Pune,Beauty,Moisturizer,3,642.5,10,Wallet,08-01-2025,3.3,4,No,1734.75
+ORD111676,CUST3396,20,Female,Vijayawada,Electronics,Headphones,4,2982.75,15,Debit Card,01-06-2025,4.1,4,No,10141.34
+ORD109858,CUST5707,30,Female,Bengaluru,Home & Kitchen,Air Fryer,1,6481.27,10,UPI,14-03-2026,4,,No,5833.14
+ORD110664,CUST1847,34,,Delhi,Beauty,Perfume,1,1696.29,15,COD,03-09-2025,3.8,3,No,1441.85
+ORD103669,CUST7214,21,Female,Mumbai,Fashion,Shoes,2,2764.76,25,UPI,08-02-2025,3.4,5,Yes,4147.13
+ORD104765,CUST2041,20,Female,Vijayawada,Fashion,Handbag,1,2279.36,10,UPI,19-04-2026,3.6,5,No,2051.42
+ORD104862,CUST2627,27,Female,Warangal,Sports,Cricket Bat,1,2838.34,20,Debit Card,25-12-2025,4.9,3,No,2270.67
+ORD103464,CUST6874,32,Male,Pune,Fashion,Shoes,2,2268.27,15,Debit Card,25-10-2026,4,3,No,3856.06
+ORD104098,CUST7235,32,Female,Mumbai,Home & Kitchen,Cookware Set,1,2664.18,25,Credit Card,04-05-2025,3.3,11,No,1998.13
+ORD102123,CUST2230,38,Female,Pune,Fashion,Jacket,1,2760.59,25,UPI,07-04-2025,3.3,3,No,2070.44
+ORD114053,CUST8426,,Female,Ahmedabad,Books,Programming Book,1,682.7,10,Wallet,13-12-2025,3.5,6,No,614.43
+ORD114139,CUST6870,18,Female,Delhi,Fashion,Jacket,1,3305.85,10,UPI,10-11-2025,4.4,3,No,2975.27
+ORD102367,CUST5428,32,Male,Ahmedabad,Fashion,Handbag,3,2084.59,15,Net Banking,22-10-2026,4.5,4,No,5315.7
+ORD110111,CUST6202,26,Male,Mumbai,Fashion,Jeans,3,1856.63,0,Debit Card,18-12-2026,3.5,2,No,5569.89
+ORD111785,CUST4067,32,Male,Chennai,Home & Kitchen,Air Fryer,1,6674.71,15,UPI,25-12-2025,2.6,5,No,5673.5
+ORD107478,CUST2349,,Female,Guntur,Fashion,Jeans,2,1883.31,5,UPI,12-06-2025,3.4,1,No,3578.29
+ORD110561,CUST7084,34,Male,Bengaluru,Fashion,T-Shirt,3,800.85,10,Debit Card,26-03-2025,4.8,4,No,2162.3
+ORD114183,CUST2149,45,Female,Vijayawada,Home & Kitchen,Mixer Grinder,1,3673.7,10,UPI,26-10-2025,4,3,No,3306.33
+ORD100358,CUST4182,26,Female,Pune,Sports,Yoga Mat,1,989.25,10,Credit Card,28-12-2025,3.4,7,No,890.32
+ORD111763,CUST2112,26,Male,Pune,Electronics,Tablet,1,22617.31,10,Net Banking,26-05-2025,5,3,No,20355.58
+ORD110929,CUST2979,36,Female,Hyderabad,Sports,Yoga Mat,1,931.13,15,Credit Card,21-02-2026,4.8,6,Yes,791.46
+ORD103034,CUST7173,26,Male,Visakhapatnam,Electronics,Headphones,3,3197.99,15,Net Banking,24-01-2026,4.4,6,No,8154.87
+ORD106500,CUST7860,45,Female,Guntur,Home & Kitchen,Cookware Set,1,3061.12,5,Net Banking,26-07-2026,2,5,No,2908.07
+ORD107885,CUST1712,30,Male,Ahmedabad,Electronics,Laptop,1,67628.7,10,UPI,05-02-2026,,4,No,60865.83
+ORD107745,CUST6406,26,Male,Ahmedabad,Beauty,Hair Dryer,2,2491.97,20,Credit Card,02-05-2026,4.4,10,No,3987.15
+ORD111156,CUST6283,45,Male,Chennai,Electronics,Smartwatch,1,6281.48,5,UPI,08-08-2026,3.9,6,No,5967.41
+ORD104973,CUST2933,28,Female,Delhi,Fashion,Jeans,1,1923.91,15,Wallet,01-02-2026,3.3,3,No,1635.33
+ORD110795,CUST8872,32,Male,Visakhapatnam,Electronics,Laptop,5,63414.04,30,Debit Card,29-06-2026,4.9,4,No,221949.13
+ORD109460,CUST1595,34,Female,Ahmedabad,Books,Exam Guide,3,709.5,10,UPI,07-11-2026,5,8,No,1915.64
+ORD105590,CUST8273,46,Male,Ahmedabad,Home & Kitchen,Air Fryer,5,6019.74,25,UPI,18-10-2025,2.9,3,No,22574.02
+ORD105715,CUST4958,43,Female,Vijayawada,Electronics,Laptop,2,62793.42,20,COD,18-10-2026,3.5,3,Yes,100469.47
+ORD103387,CUST4651,39,male,Guntur,Home & Kitchen,Mixer Grinder,5,3332.55,10,Net Banking,25-10-2025,4.6,7,No,14996.49
+ORD109888,CUST6277,30,Male,Chennai,Beauty,Perfume,5,1912.87,5,Credit Card,26-10-2026,4.1,6,No,9086.12
+ORD102299,CUST7476,18,Male,Ahmedabad,Electronics,Smartwatch,4,6365.45,5,COD,07-06-2026,4.6,3,No,24188.72
+ORD110877,CUST8195,33,female,Hyderabad,Electronics,Smartphone,1,24949.4,0,Credit Card,12-03-2026,4.2,7,No,24949.4
+ORD114648,CUST6341,28,Male,Hyderabad,Sports,Cricket Bat,2,2981.94,10,UPI,26-12-2026,3.5,8,No,5367.49
+ORD100048,CUST4054,27,Female,Chennai,Fashion,Jacket,3,2593.01,5,Credit Card,30-01-2025,4.8,5,No,7390.09
+ORD107614,CUST7904,27,Female,Ahmedabad,Fashion,Handbag,3,2259.64,10,Wallet,23-04-2026,4,5,No,6101.03
+ORD113213,CUST7683,40,Male,Vijayawada,Home & Kitchen,Cookware Set,2,2600.65,25,Net Banking,09-08-2026,4,2,No,3900.98
+ORD103814,CUST1643,32,Male,Mumbai,Electronics,Headphones,4,2556.81,5,Debit Card,17-05-2025,3.6,7,Yes,9715.88
+ORD109839,CUST6738,23,Male,Hyderabad,Sports,Dumbbells,2,2737.23,10,COD,21-07-2026,4.9,4,Yes,4927.01
+ORD109091,CUST3020,44,Male,Vijayawada,Beauty,Makeup Kit,1,2752.74,20,Debit Card,29-03-2026,4.3,5,No,2202.19
+ORD109364,CUST1702,29,Female,Vijayawada,Home & Kitchen,Lamp,2,1163.4,10,COD,23-04-2026,3.2,2,No,2094.11
+ORD110910,CUST2786,32,Male,Mumbai,Books,Programming Book,2,900.29,0,Net Banking,25-02-2026,2.5,7,No,1800.58
+ORD109555,CUST5886,18,Male,Chennai,Electronics,Headphones,1,2562.4,15,UPI,15-09-2025,4.6,6,No,2178.04
+ORD101386,CUST1416,26,Female,Visakhapatnam,Electronics,Headphones,3,2957.56,25,Debit Card,05-01-2026,4.7,5,yes,6654.51
+ORD105405,CUST1134,25,Female,Warangal,Home & Kitchen,Cookware Set,2,2693.4,15,Debit Card,27-01-2025,2.7,1,No,4578.78
+ORD106093,CUST6761,23,Male,Kolkata,Home & Kitchen,Bedsheet,1,1580.46,10,COD,30-07-2025,5,4,No,1422.42
+ORD114102,CUST6601,41,Female,Pune,Electronics,Tablet,2,21795,10,COD,23-09-2026,3.8,4,No,39230.99
+ORD113134,CUST5173,41,Male,Vijayawada,Home & Kitchen,Air Fryer,3,7245.24,5,UPI,22-08-2026,4.4,,No,20648.92
+ORD113691,CUST5534,38,Female,Warangal,Electronics,Laptop,1,54672.97,0,UPI,21-12-2025,3.4,3,No,54672.97
+ORD113119,CUST2370,18,Male,Bengaluru,Home & Kitchen,Lamp,1,1070.73,10,COD,01-12-2026,4.7,6,No,963.66
+ORD101748,CUST4465,39,Female,Warangal,Home & Kitchen,Air Fryer,1,7106.96,5,Credit Card,17-02-2025,2.5,1,No,6751.61
+ORD103636,CUST1870,23,Other,Chennai,Electronics,Smartphone,4,23193.29,5,Wallet,05-10-2025,3.1,3,No,88134.49
+ORD103044,CUST2630,49,Female,Visakhapatnam,Fashion,T-Shirt,1,815.48,5,Wallet,22-07-2025,4.6,5,No,774.7
+ORD114128,CUST3658,39,Female,Guntur,Home & Kitchen,Mixer Grinder,3,3581.12,30,Net Banking,30-10-2025,3.9,8,No,7520.35
+ORD112941,CUST1536,22,Male,Visakhapatnam,Beauty,Hair Dryer,1,2452.6,5,Wallet,11-02-2025,4.4,7,No,2329.97
+ORD100102,CUST2893,24,Male,Visakhapatnam,Beauty,Makeup Kit,1,2594.94,0,Credit Card,03-03-2025,4.4,,No,2594.94
+ORD111025,CUST6479,,Other,Hyderabad,Electronics,Tablet,1,19341.93,5,Credit Card,27-07-2025,3.7,7,No,18374.83
+ORD103170,CUST2560,18,Female,Ahmedabad,Home & Kitchen,Lamp,3,1206.53,5,COD,29-03-2026,5,7,No,3438.6
+ORD101633,CUST2951,40,Male,Bengaluru,Home & Kitchen,Bedsheet,1,1671.06,5,UPI,26-12-2025,4.4,2,No,1587.5
+ORD101663,CUST7672,39,Male,Guntur,Beauty,Face Wash,5,434.24,10,UPI,27-08-2025,4.9,1,No,1954.09
+ORD110217,CUST2882,21,Male,Guntur,Beauty,Hair Dryer,2,2465,0,Credit Card,18-11-2025,4.6,3,No,4929.99
+ORD111918,CUST2756,27,Female,Pune,Beauty,Perfume,2,1654.55,10,Wallet,02-12-2025,3.7,2,No,2978.19
+ORD107415,CUST7319,24,Female,Mumbai,Beauty,Hair Dryer,1,2355.1,,Wallet,09-11-2026,5,7,No,1766.32
+ORD100885,CUST7959,31,Female,Vijayawada,Electronics,Smartphone,1,28330.48,0,Debit Card,27-02-2026,3.8,4,No,28330.48
+ORD111834,CUST3132,48,Female,Chennai,Fashion,Handbag,1,2166.95,10,Wallet,24-03-2026,4.3,4,No,1950.26
+ORD102999,CUST4983,41,Female,Chennai,Books,Data Science Book,3,1225.22,20,Net Banking,18-01-2025,3.6,4,Yes,2940.52
+ORD113275,CUST2771,36,Male,Bengaluru,Home & Kitchen,Lamp,1,1063.83,5,Net Banking,02-10-2025,1.9,1,No,1010.64
+ORD101374,CUST5293,24,Male,Ahmedabad,Sports,Dumbbells,2,2280.1,30,Debit Card,30-12-2026,4.8,2,No,3192.14
+ORD114421,CUST8120,32,Female,Chennai,Books,Biography,3,560.46,20,Debit Card,22-07-2025,4.4,5,Yes,1345.1
+ORD110112,CUST6612,18,Male,Delhi,Fashion,T-Shirt,4,944.41,25,UPI,03-11-2026,3.5,2,No,2833.24
+ORD113826,CUST5968,32,Male,Delhi,Beauty,Moisturizer,2,656.45,25,Debit Card,09-02-2026,1.5,6,No,984.68
+ORD111456,CUST4179,27,Female,Warangal,Electronics,Laptop,1,64328.37,20,Net Banking,03-03-2026,5,6,No,51462.7
+ORD103648,CUST6670,42,Male,Pune,Fashion,Handbag,3,1941.13,5,Credit Card,03-08-2025,3.6,,No,5532.21
+ORD108274,CUST1316,34,Female,Pune,Beauty,Makeup Kit,2,2688.38,5,Debit Card,06-03-2025,3.2,5,No,5107.91
+ORD114944,CUST3115,19,Male,Mumbai,Electronics,Laptop,1,51238.99,15,Debit Card,13-12-2025,5,6,No,43553.14
+ORD108125,CUST7104,46,Female,Delhi,Books,Programming Book,1,897.85,15,UPI,09-06-2025,3.2,7,No,763.18
+ORD112082,CUST7911,23,Female,Pune,Sports,Yoga Mat,5,1012.55,5,Wallet,09-03-2026,3.2,6,No,4809.61
+ORD101036,CUST5549,45,Male,Bengaluru,Home & Kitchen,Bedsheet,2,1630.3,10,COD,12-11-2025,3.3,3,Yes,2934.53
+ORD114801,CUST3432,27,Female,Bengaluru,Electronics,Smartphone,2,26634.65,10,Credit Card,20-11-2025,2.3,6,No,47942.37
+ORD109840,CUST3571,40,Male,Kolkata,Books,Biography,1,555.43,5,Net Banking,31-10-2026,3.3,7,No,527.66
+ORD112623,CUST4384,29,Female,Pune,Beauty,Face Wash,1,543.18,25,Credit Card,24-02-2025,5,6,No,407.39
+ORD105182,CUST8079,18,Female,Bengaluru,Fashion,Jacket,1,2664.65,20,UPI,23-12-2026,3.8,2,No,2131.72
+ORD107303,CUST3485,37,Male,Guntur,Sports,Running Shoes,1,3522.1,15,Net Banking,18-04-2026,4.9,2,Yes,2993.78
+ORD102202,CUST1482,43,Female,Warangal,Books,Exam Guide,1,666.59,10,UPI,12-05-2026,4,7,No,599.93
+ORD109232,CUST5989,39,Male,Hyderabad,Sports,Football,1,1350.23,0,Credit Card,01-11-2025,3.7,6,No,1350.23
+ORD102100,CUST7628,32,Female,Hyderabad,Electronics,Smartwatch,2,6793.78,30,Credit Card,22-06-2025,3.7,4,No,9511.29
+ORD100926,CUST3373,36,Female,Chennai,Fashion,Jacket,1,2772.74,5,UPI,23-10-2025,4.3,,No,2634.1
+ORD114704,CUST3101,19,Female,Guntur,Electronics,Headphones,2,2874.27,0,COD,14-02-2025,2.8,3,Yes,5748.54
+ORD109527,CUST2583,23,Female,Kolkata,Home & Kitchen,Mixer Grinder,1,3193.79,15,COD,03-08-2026,3.1,4,No,2714.72
+ORD112460,CUST5486,,Female,Ahmedabad,Electronics,Laptop,2,58422.32,20,Credit Card,15-08-2026,3.7,4,No,93475.71
+ORD106563,CUST5404,38,Female,Chennai,Electronics,Headphones,1,2611.31,15,COD,23-12-2026,3.6,3,No,2219.62
+ORD104744,CUST8004,29,Male,Visakhapatnam,Fashion,Shoes,1,2270.23,15,Credit Card,08-06-2025,3.2,8,No,1929.7
+ORD108485,CUST7654,23,Female,Vijayawada,Beauty,Face Wash,2,531.5,10,Wallet,22-12-2026,3.1,2,No,956.71
+ORD100305,CUST3438,36,Female,Visakhapatnam,Sports,Cricket Bat,1,2736.8,10,COD,31-01-2025,2.5,4,No,2463.12
+ORD101227,CUST3713,33,Male,Vijayawada,Fashion,Jacket,1,3088.1,5,Credit Card,09-12-2025,3.4,5,No,2933.69
+ORD102146,CUST7867,41,Female,Ahmedabad,Books,Data Science Book,5,1362.52,15,Debit Card,13-05-2025,3.9,7,No,5790.73
+ORD113936,CUST8305,35,Male,Bengaluru,Fashion,Jeans,3,1542.18,0,Net Banking,16-04-2026,3,1,Yes,4626.53
+ORD108292,CUST8953,34,Male,Kolkata,Books,Biography,1,632.56,15,COD,26-01-2026,4.1,2,Yes,537.68
+ORD105730,CUST7764,29,Female,Delhi,Fashion,Handbag,1,2052.13,20,Debit Card,15-01-2026,4.6,2,No,1641.7
+ORD101403,CUST7959,37,Female,Chennai,Books,Novel,1,458.32,5,Wallet,21-01-2026,3.2,7,No,435.4
+ORD114794,CUST4730,28,Female,Warangal,Sports,Running Shoes,2,3656.12,5,UPI,24-10-2025,3.2,6,Yes,6946.64
+ORD114893,CUST3401,29,Male,Vijayawada,Electronics,Tablet,3,21078.1,5,Wallet,30-10-2026,,4,No,60072.6
+ORD113287,CUST1779,31,,Chennai,Books,Biography,1,696.28,10,Credit Card,09-09-2026,4.8,5,No,626.65
+ORD109146,CUST3483,52,Female,Guntur,Beauty,Makeup Kit,2,2310.07,20,UPI,14-11-2026,3.5,1,No,3696.11
+ORD101412,CUST4413,26,Male,Pune,Books,Programming Book,1,912.27,15,Wallet,21-04-2025,4.4,6,No,775.43
+ORD109458,CUST3169,39,Male,Mumbai,Electronics,Smartphone,1,24448.78,10,Debit Card,29-03-2025,2.9,2,No,22003.9
+ORD105386,CUST6842,28,Female,Vijayawada,Beauty,Makeup Kit,1,2546.74,10,COD,01-02-2025,4.3,4,No,2292.07
+ORD114293,CUST4525,40,Female,Bengaluru,Home & Kitchen,Cookware Set,4,3076.45,20,Credit Card,25-07-2026,3.6,5,No,9844.64
+ORD106593,CUST3996,32,Female,Bengaluru,Fashion,Jeans,1,1623.52,25,Debit Card,31-07-2026,4.6,3,No,1217.64
+ORD109518,CUST2630,28,Male,Mumbai,Fashion,Jacket,3,2972.97,25,Credit Card,27-03-2026,3.9,6,No,6689.17
+ORD105459,CUST6064,19,Male,Chennai,Electronics,Smartphone,1,22047.84,10,Wallet,17-11-2026,3.1,4,No,19843.06
+ORD109782,CUST3852,33,male,Bengaluru,Home & Kitchen,Bedsheet,1,1623.08,20,Credit Card,13-10-2026,3.7,2,No,1298.46
+ORD110688,CUST3116,40,Male,Vijayawada,Sports,Football,5,1362.13,0,Debit Card,07-03-2025,4.3,2,No,6810.64
+ORD109995,CUST1958,20,Female,Chennai,Fashion,Handbag,1,2176.55,15,Wallet,28-02-2025,4.2,6,No,1850.07
+ORD113843,CUST7693,25,Other,Visakhapatnam,Beauty,Face Wash,1,522.31,10,COD,09-01-2025,2.5,8,No,470.08
+ORD104961,CUST4498,18,Male,Pune,Electronics,Headphones,1,3099.54,25,Net Banking,03-03-2025,4.4,2,No,2324.66
+ORD113938,CUST4465,31,Male,Pune,Fashion,Shoes,2,2218.76,15,UPI,17-10-2026,4.4,4,No,3771.9
+ORD109273,CUST6396,41,Female,Bengaluru,Books,Exam Guide,4,724.65,15,UPI,24-08-2025,3.7,5,No,2463.83
+ORD114316,CUST1993,29,Female,Ahmedabad,Electronics,Laptop,2,56020.05,10,Wallet,02-08-2025,3.5,3,No,100836.1
+ORD107961,CUST1211,31,Female,Warangal,Electronics,Laptop,3,64602.59,20,Credit Card,05-03-2025,3.3,8,No,155046.22
+ORD112022,CUST1557,31,Female,Chennai,Fashion,Shoes,1,2834.07,20,Wallet,21-08-2025,3.7,8,No,2267.26
+ORD114965,CUST8049,29,Male,Guntur,Home & Kitchen,Air Fryer,4,5888.26,15,Net Banking,16-03-2025,3.7,6,Yes,20020.07
+ORD104388,CUST2329,37,Female,Ahmedabad,Electronics,Laptop,2,65364.94,0,Net Banking,26-02-2026,3.4,5,No,130729.87
+ORD106007,CUST2816,41,Female,Ahmedabad,Beauty,Hair Dryer,1,2028.96,15,Wallet,05-05-2025,4.2,5,No,1724.62
+ORD113651,CUST4635,39,Male,Ahmedabad,Sports,Yoga Mat,1,804.5,10,COD,03-09-2025,3.3,3,No,724.05
+ORD106408,CUST6216,34,Female,Hyderabad,Electronics,Smartphone,2,26604.82,15,Credit Card,09-01-2025,3.2,3,Yes,45228.2
+ORD104082,CUST1844,27,Female,Visakhapatnam,Fashion,Shoes,3,2498.97,30,Net Banking,01-01-2025,5,1,No,5247.84
+ORD105229,CUST1670,20,Male,Mumbai,Electronics,Laptop,1,65790.75,0,Credit Card,07-04-2026,,5,No,65790.75
+ORD106320,CUST3078,26,Male,Chennai,Home & Kitchen,Bedsheet,1,1716.08,10,UPI,19-07-2026,3.7,4,No,1544.47
+ORD114786,CUST2370,42,Female,Hyderabad,Fashion,Shoes,2,2758.75,15,Wallet,28-08-2026,5,5,No,4689.87
+ORD109046,CUST5251,39,Male,Bengaluru,Electronics,Smartphone,4,22732.53,15,UPI,29-06-2026,4.6,4,No,77290.61
+ORD105370,CUST7298,36,Male,Hyderabad,Fashion,Jacket,1,2898.08,25,UPI,12-06-2025,5,1,No,2173.56
+ORD101255,CUST2275,43,Female,Vijayawada,Electronics,Smartwatch,3,7342.76,15,Wallet,25-02-2025,4.5,1,No,18724.03
+ORD102859,CUST4621,28,Male,Hyderabad,Beauty,Face Wash,5,520.22,10,UPI,17-01-2025,4,5,No,2341
+ORD113976,CUST4278,31,Female,Warangal,Sports,Cricket Bat,1,2579.74,10,UPI,15-04-2026,4.1,6,No,2321.76
+ORD114493,CUST6893,28,Male,Chennai,Sports,Football,2,1160.03,10,Credit Card,24-10-2026,3.5,4,No,2088.06
+ORD106518,CUST5370,32,Male,Bengaluru,Beauty,Perfume,1,2024.11,10,COD,05-09-2026,3,6,No,1821.7
+ORD111361,CUST7933,25,Male,Kolkata,Sports,Dumbbells,3,2207.6,15,Wallet,29-09-2025,5,3,No,5629.37
+ORD108518,CUST7772,37,Female,Ahmedabad,Electronics,Tablet,1,21168.91,0,Debit Card,31-10-2025,3.5,4,Yes,21168.91
+ORD104126,CUST1170,25,Female,Vijayawada,Electronics,Tablet,1,19515.63,10,Credit Card,16-02-2025,3.1,4,No,17564.07
+ORD106276,CUST4269,27,Male,Delhi,Beauty,Makeup Kit,1,2327.83,15,UPI,22-03-2026,4.2,2,No,1978.66
+ORD111891,CUST6193,27,Female,Delhi,Home & Kitchen,Bedsheet,1,1542.53,5,UPI,23-02-2025,4.2,4,No,1465.41
+ORD105438,CUST2849,19,Female,Bengaluru,Electronics,Laptop,1,58764.76,10,Debit Card,13-09-2026,3.3,3,No,52888.29
+ORD101744,CUST6245,19,Male,Pune,Books,Biography,1,573.59,5,UPI,31-05-2026,3.8,5,No,544.91
+ORD109444,CUST8732,35,Male,Hyderabad,Fashion,Handbag,1,1959.9,5,Wallet,27-12-2025,5,3,No,1861.9
+ORD112088,CUST6199,24,Female,Delhi,Electronics,Smartphone,1,22557.8,10,COD,06-10-2025,2.6,4,No,20302.02
+ORD100903,CUST3995,24,Female,Ahmedabad,Electronics,Headphones,1,2565.57,0,Net Banking,30-07-2026,4,4,No,2565.57
+ORD100736,CUST6746,41,Female,Pune,Beauty,Moisturizer,2,601.52,5,UPI,01-09-2026,4.1,4,No,1142.88
+ORD107624,CUST3171,30,Female,Chennai,Electronics,Smartwatch,1,7694.39,10,UPI,05-01-2026,4.9,6,No,6924.96
+ORD108673,CUST1075,20,Female,Guntur,Books,Data Science Book,1,1113.87,5,Credit Card,19-01-2025,3.9,7,No,1058.18
+ORD107529,CUST1046,18,Female,Warangal,Fashion,Handbag,1,2094.26,20,COD,13-07-2026,5,5,No,1675.41
+ORD109728,CUST8893,21,Male,Delhi,Fashion,Handbag,1,2266.37,15,Wallet,20-03-2026,4.7,3,No,1926.42
+ORD103462,CUST3337,36,Male,Guntur,Beauty,Face Wash,3,551.3,10,Wallet,24-12-2026,3.9,5,Yes,1488.51
+ORD109474,CUST7406,18,Male,,Electronics,Smartwatch,1,6364.21,15,Debit Card,08-11-2026,5,6,No,5409.57
+ORD112298,CUST8488,19,Female,Warangal,Electronics,Smartwatch,1,7474.92,20,Debit Card,19-01-2026,3.2,2,No,5979.94
+ORD103078,CUST6220,23,Female,Warangal,Home & Kitchen,Cookware Set,1,2932.03,30,Wallet,10-03-2025,5,6,No,2052.42
+ORD108630,CUST2121,45,Male,Warangal,Sports,Yoga Mat,1,918.46,10,Net Banking,14-11-2026,3.9,7,No,826.61
+ORD101741,CUST2326,37,Male,Visakhapatnam,Electronics,Laptop,3,66250.75,5,Net Banking,28-10-2025,3.2,6,No,188814.62
+ORD110360,CUST5187,26,Female,Bengaluru,Beauty,Hair Dryer,1,2471.98,15,Net Banking,13-03-2026,3.1,6,No,2101.18
+ORD112210,CUST7998,31,Male,Warangal,Electronics,Smartwatch,1,7797.12,10,Net Banking,30-05-2025,2.9,4,No,7017.41
+ORD106138,CUST5707,22,Female,Mumbai,Electronics,Tablet,1,20292.59,20,Credit Card,12-04-2025,3.7,3,No,16234.07
+ORD107666,CUST8480,35,Male,Mumbai,Fashion,Handbag,1,2078.42,5,Wallet,27-04-2025,4.1,3,No,1974.49
+ORD102663,CUST5136,38,Male,Vijayawada,Fashion,Handbag,1,2441.01,0,,15-02-2025,3.8,3,No,2441.01
+ORD110585,CUST8438,51,Female,Vijayawada,Fashion,Shoes,2,2324.87,10,Net Banking,18-03-2026,3.7,8,No,4184.76
+ORD106429,CUST1369,46,Female,Vijayawada,Fashion,Shoes,3,2484.13,10,Wallet,12-10-2025,3.2,4,No,6707.14
+ORD105457,CUST6166,37,Male,Kolkata,Electronics,Smartwatch,1,6147.26,0,COD,27-09-2026,3.8,3,No,6147.26
+ORD106495,CUST7730,29,Male,Chennai,Sports,Cricket Bat,2,2659.53,10,Debit Card,07-07-2026,3.8,5,No,4787.16
+ORD105862,CUST6366,22,Male,Warangal,Electronics,Headphones,4,2911.71,5,Net Banking,29-08-2026,4.4,2,No,11064.48
+ORD113655,CUST6932,26,Male,,Fashion,Jeans,1,1792.27,25,Wallet,23-05-2026,4.3,2,No,1344.2
+ORD101594,CUST1295,18,Male,Guntur,Fashion,T-Shirt,3,905.41,15,Net Banking,18-10-2025,4.3,7,No,2308.8
+ORD103014,CUST8856,35,Male,Pune,Beauty,Perfume,1,1709.89,10,Net Banking,29-03-2026,2.7,6,No,1538.9
+ORD114187,CUST3290,47,Female,Pune,Fashion,Jacket,3,2782.15,25,Wallet,05-06-2026,4.8,1,No,6259.83
+ORD112957,CUST1965,47,Male,Chennai,Fashion,Shoes,1,2443.55,15,UPI,07-07-2026,4,5,No,2077.02
+ORD108789,CUST2544,36,Male,Ahmedabad,Fashion,Jacket,1,3189.41,15,Credit Card,20-05-2025,3.3,,No,2711
+ORD107309,CUST7869,40,Female,Guntur,Electronics,Tablet,2,20312.83,5,Credit Card,10-08-2025,4,1,Yes,38594.37
+ORD104342,CUST3200,30,Male,Ahmedabad,Electronics,Smartwatch,2,6835.37,10,Wallet,18-05-2026,2.9,7,No,12303.66
+ORD110375,CUST5649,18,Male,Visakhapatnam,Beauty,Makeup Kit,1,2243.72,20,Debit Card,26-01-2026,4.9,3,No,1794.97
+ORD106331,CUST6859,28,Female,Warangal,Fashion,Jacket,3,3436.73,10,Credit Card,21-05-2025,4.5,5,No,9279.18
+ORD107915,CUST6659,22,Male,Kolkata,Books,Programming Book,5,861.39,15,Net Banking,17-12-2025,4.1,4,No,3660.92
+ORD109604,CUST8871,33,Female,Bengaluru,Fashion,Jacket,1,3183.6,15,Wallet,13-06-2026,3.5,4,No,2706.06
+ORD105923,CUST2845,40,Male,Guntur,Beauty,Perfume,1,1622.45,0,COD,27-01-2025,4,2,No,1622.45
+ORD103205,CUST3102,43,Female,Delhi,Books,Exam Guide,2,622.81,0,,14-08-2025,3.9,6,No,1245.61
+ORD108078,CUST1249,28,Male,Bengaluru,Electronics,Headphones,1,2790.2,0,UPI,26-07-2026,4.8,1,Yes,2790.2
+ORD107918,CUST3528,33,Male,Chennai,Electronics,Smartwatch,1,6236.74,25,Wallet,14-01-2026,5,3,No,4677.55
+ORD101806,CUST8491,45,Female,Visakhapatnam,Beauty,Makeup Kit,1,2337.84,0,Wallet,28-07-2025,4.2,5,No,2337.84
+ORD112106,CUST8129,31,Female,Mumbai,Home & Kitchen,Lamp,1,1093.05,0,Wallet,06-02-2026,3.4,4,No,1093.05
+ORD105221,CUST6697,37,Female,Warangal,Electronics,Headphones,2,3250.61,5,Wallet,25-02-2025,3.6,8,No,6176.15
+ORD101870,CUST1037,28,Male,Warangal,Sports,Football,2,1248.28,20,Wallet,12-12-2025,4.2,5,Yes,1997.24
+ORD105287,CUST5738,31,Female,Ahmedabad,Beauty,Face Wash,1,502.91,15,Wallet,12-11-2026,2.7,1,No,427.47
+ORD101689,CUST7890,30,Male,Ahmedabad,Home & Kitchen,Bedsheet,1,1693.03,,Net Banking,27-09-2025,5,2,No,1439.08
+ORD111903,CUST1427,18,Female,Mumbai,Fashion,Jeans,4,1621.17,25,UPI,11-11-2025,3.9,3,No,4863.52
+ORD100169,CUST4937,29,Male,Hyderabad,Fashion,Jacket,2,2902.87,10,UPI,21-06-2026,2.9,5,No,5225.17
+ORD101490,CUST6825,27,Male,Hyderabad,Home & Kitchen,Mixer Grinder,1,3764.16,15,Net Banking,21-08-2025,3.9,8,No,3199.54
+ORD109045,CUST1961,34,Male,Mumbai,Fashion,Jeans,4,1562.46,5,COD,21-02-2025,3.9,1,Yes,5937.36
+ORD111815,CUST5591,42,Other,Hyderabad,Home & Kitchen,Air Fryer,1,5945.71,15,Net Banking,08-04-2025,3.6,6,No,5053.85
+ORD113345,CUST3478,28,Female,Vijayawada,Electronics,Laptop,2,52571.18,10,Debit Card,17-04-2025,5,4,No,94628.13
+ORD105929,CUST8705,18,Female,Chennai,Sports,Dumbbells,3,2680.19,5,Credit Card,26-12-2025,3.6,4,No,7638.54
+ORD114525,CUST7760,27,Male,Pune,Books,Biography,2,664.08,20,Net Banking,12-03-2025,4.6,6,No,1062.53
+ORD100435,CUST5172,18,Male,Visakhapatnam,Electronics,Laptop,2,59933.53,10,,24-03-2026,4.5,5,No,107880.36
+ORD101035,CUST4282,36,Male,,Fashion,T-Shirt,3,1003.29,15,Net Banking,08-02-2026,1.5,7,No,2558.38
+ORD109958,CUST2943,30,Male,Kolkata,Electronics,Smartwatch,1,7484.77,15,Credit Card,14-01-2026,3.2,6,No,6362.05
+ORD107976,CUST6229,30,Male,Mumbai,Sports,Football,2,1231.32,20,UPI,08-06-2025,4.6,4,No,1970.12
+ORD114653,CUST4430,21,Male,Hyderabad,Fashion,Jeans,3,2004.6,25,credit card,30-01-2026,2.7,3,No,4510.34
+ORD112188,CUST6247,,Male,Pune,Electronics,Smartwatch,1,6483.13,10,UPI,05-12-2026,3,2,No,5834.82
+ORD104451,CUST1659,30,Male,Mumbai,Sports,Running Shoes,4,3962.96,5,UPI,04-04-2025,3.1,3,No,15059.23
+ORD103488,CUST2212,39,Male,Mumbai,Beauty,Hair Dryer,3,2469.11,20,Net Banking,19-05-2026,3,3,No,5925.87
+ORD114388,CUST6296,40,Female,Hyderabad,Fashion,T-Shirt,1,802.68,30,Credit Card,27-11-2026,5,4,No,561.88
+ORD107919,CUST4669,23,Female,Warangal,Books,Data Science Book,1,1053.36,10,Wallet,19-07-2026,4.3,7,No,948.02
+ORD108460,CUST5257,33,Male,Ahmedabad,Home & Kitchen,Mixer Grinder,2,3686.62,10,Net Banking,18-01-2025,3.6,2,No,6635.91
+ORD111718,CUST4013,26,Male,Ahmedabad,Beauty,Face Wash,1,460.68,5,COD,04-07-2025,2.5,5,No,437.65
+ORD110109,CUST4140,24,Female,Bengaluru,Sports,Football,2,1186.03,10,Net Banking,26-05-2025,3.8,5,No,2134.86
+ORD107812,CUST8732,34,Male,Guntur,Home & Kitchen,Lamp,3,1294.73,30,Net Banking,07-08-2025,3.6,2,No,2718.93
+ORD114199,CUST5792,31,Male,Visakhapatnam,Books,Exam Guide,1,787.72,10,Wallet,15-06-2026,3.7,2,No,708.95
+ORD113135,CUST6255,32,Male,Pune,Electronics,Tablet,1,24939.38,25,Debit Card,23-05-2025,4.5,7,No,18704.53
+ORD105149,CUST3871,27,Male,Delhi,Sports,Running Shoes,2,3979.6,15,Wallet,25-05-2026,3.6,5,Yes,6765.31
+ORD103438,CUST6001,36,Female,Vijayawada,Fashion,Jacket,1,3186.77,5,Debit Card,13-03-2025,4.4,6,No,3027.43
+ORD108882,CUST8548,31,Male,Guntur,Books,Programming Book,2,895.29,10,Wallet,30-11-2026,3.7,2,No,1611.52
+ORD103911,CUST8947,33,Female,Hyderabad,Home & Kitchen,Lamp,2,1131.97,15,COD,29-01-2026,4.9,3,No,1924.35
+ORD111011,CUST7696,34,Female,Kolkata,Home & Kitchen,Bedsheet,2,1612.66,15,COD,15-01-2025,3.8,3,No,2741.52
+ORD112624,CUST5805,34,Female,Warangal,Home & Kitchen,Lamp,4,1103.82,20,Wallet,18-10-2025,1.6,9,No,3532.23
+ORD104878,CUST1700,18,Male,Warangal,Beauty,Face Wash,2,513,10,Credit Card,13-06-2025,2.9,6,No,923.4
+ORD102151,CUST2438,32,Female,Hyderabad,Beauty,Makeup Kit,2,2870.54,15,Wallet,13-08-2025,4.1,4,No,4879.92
+ORD111672,CUST8978,,Female,Delhi,Home & Kitchen,Air Fryer,3,7059.01,0,Credit Card,17-03-2026,3,2,No,21177.03
+ORD112527,CUST8663,38,Female,Hyderabad,Beauty,Perfume,1,2022.94,15,Wallet,26-03-2026,4.3,3,No,1719.5
+ORD112440,CUST1729,29,Male,Guntur,Fashion,Shoes,1,2535.69,15,Wallet,02-11-2026,3.6,4,Yes,2155.34
+ORD110958,CUST1844,39,male,Guntur,Home & Kitchen,Bedsheet,1,1466.23,5,Wallet,17-10-2026,4.4,2,Yes,1392.92
+ORD100915,CUST6874,,Male,Guntur,Books,Data Science Book,1,1299.38,20,Credit Card,22-02-2026,,4,No,1039.5
+ORD114776,CUST8765,46,Female,Guntur,Electronics,Smartwatch,2,6229,20,Debit Card,24-07-2025,3.2,8,No,9966.4
+ORD108736,CUST2508,35,Male,Mumbai,Fashion,Handbag,1,2175.28,0,Credit Card,13-02-2025,3.2,7,No,2175.28
+ORD104289,CUST1608,26,Male,Hyderabad,Books,Biography,1,570.01,0,COD,19-06-2026,,7,No,570.01
+ORD114655,CUST1563,44,Female,Warangal,Electronics,Smartphone,4,26208.99,25,COD,02-11-2026,3.9,4,Yes,78626.96
+ORD114065,CUST1803,25,Male,Visakhapatnam,Fashion,T-Shirt,1,766.9,20,Net Banking,01-05-2026,4.9,3,No,613.52
+ORD106148,CUST6053,27,Male,Pune,Fashion,Jeans,5,1762.5,5,UPI,11-04-2025,4.9,3,No,8371.86
+ORD111424,CUST1376,18,Female,Vijayawada,Electronics,Headphones,2,3090.58,15,Wallet,22-03-2025,4.3,7,No,5253.98
+ORD112660,CUST5288,28,Male,Kolkata,Electronics,Laptop,1,68451.57,10,Credit Card,08-05-2025,4.1,5,No,61606.41
+ORD102702,CUST3278,38,Male,Vijayawada,Home & Kitchen,Mixer Grinder,1,3868.89,5,credit card,23-07-2025,3.7,2,No,3675.45
+ORD106493,CUST7869,18,Male,Mumbai,Sports,Cricket Bat,1,2958.87,0,Credit Card,10-12-2026,4.7,3,No,2958.87
+ORD109395,CUST8169,34,Female,Ahmedabad,Beauty,Makeup Kit,4,2295.78,0,Wallet,21-02-2026,2.7,4,No,9183.13
+ORD112718,CUST6749,31,Male,Guntur,Beauty,Face Wash,2,471.3,25,UPI,12-02-2026,2.6,4,No,706.94
+ORD105613,CUST7683,23,Female,Visakhapatnam,Fashion,T-Shirt,1,772.8,5,Credit Card,05-07-2025,3.1,7,No,734.16
+ORD102035,CUST6330,47,Male,Ahmedabad,Electronics,Tablet,3,22747.51,15,UPI,06-05-2026,3.8,6,No,58006.14
+ORD109124,CUST1239,29,Female,Bengaluru,Fashion,Jacket,2,2944.56,25,COD,11-09-2025,3.7,2,Yes,4416.85
+ORD101023,CUST7722,28,Male,Chennai,Books,Exam Guide,2,642.5,15,COD,19-11-2026,3.8,5,No,1092.24
+ORD106384,CUST1327,42,Female,Guntur,Beauty,Face Wash,2,550.78,10,Credit Card,04-08-2025,4.7,4,No,991.41
+ORD100201,CUST4655,27,Female,Ahmedabad,Beauty,Perfume,3,1700.39,20,COD,16-08-2025,5,5,Yes,4080.92
+ORD106330,CUST2725,43,Female,Vijayawada,Electronics,Laptop,1,54842.56,10,UPI,25-01-2025,3.5,4,No,49358.3
+ORD113654,CUST5409,33,Male,Kolkata,Fashion,T-Shirt,1,814.65,5,Debit Card,10-11-2025,3.9,5,Yes,773.91
+ORD100469,CUST7855,42,Male,Vijayawada,Electronics,Tablet,1,18821.04,5,Wallet,07-11-2026,,2,No,17879.99
+ORD109259,CUST3066,22,Female,Chennai,Fashion,Shoes,1,2636.74,10,Net Banking,20-03-2025,2.9,5,Yes,2373.06
+ORD109717,CUST1886,22,Male,Delhi,Fashion,Jacket,1,3250.52,5,,07-09-2025,4.2,3,No,3088
+ORD111069,CUST2692,36,Male,Pune,Fashion,Jacket,2,2726.69,20,Wallet,29-12-2025,4.3,5,No,4362.71
+ORD103892,CUST8744,21,Female,Bengaluru,Beauty,Makeup Kit,1,2757.32,0,UPI,16-11-2025,4,5,No,2757.32
+ORD113201,CUST5831,18,Female,Visakhapatnam,Sports,Dumbbells,3,2548.91,10,COD,05-02-2025,4.1,4,No,6882.07
+ORD104238,CUST4592,18,Male,Visakhapatnam,Sports,Dumbbells,4,2738.1,10,Wallet,10-11-2026,4.6,6,No,9857.14
